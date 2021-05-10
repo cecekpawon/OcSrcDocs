@@ -1,0 +1,44 @@
+name: OcSrcDocs
+
+on:
+  workflow_dispatch:
+    branches: [ master ]
+
+jobs:
+  build-oc-docs:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Get Tag
+        id: get_tag
+        run: echo "::set-output name=tag::$(<oc-tag.txt)"
+
+      - name: Checkout Oc
+        uses: actions/checkout@v2
+        with:
+          repository: acidanthera/OpenCorePkg
+          path: OpenCorePkg
+          ref: ${{ steps.get_tag.outputs.tag }}
+          fetch-depth: 1
+
+      - name: Install Doxyfile
+        run: rm OpenCorePkg/Doxyfile && cp ./Doxyfile OpenCorePkg/
+
+      - name: Doxygen Action
+        uses: mattnotmitt/doxygen-action@v1
+        with:
+            doxyfile-path: ./Doxyfile
+            working-directory: OpenCorePkg/
+
+      - name: GH Pages Deployment
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./OpenCorePkg/Doxy/html/
+          enable_jekyll: false
+          allow_empty_commit: true
+          force_orphan: true
+          publish_branch: gh-pages
