@@ -24,8 +24,11 @@ jobs:
           ref: ${{ steps.get_tag.outputs.tag }}
           fetch-depth: 1
 
-      - name: Install Doxyfile
-        run: rm OpenCorePkg/Doxyfile && cp ./Doxyfile OpenCorePkg/
+      - name: Install Files
+        run: |
+          rm OpenCorePkg/Doxyfile && cp ./Doxyfile OpenCorePkg/
+          cp ./logo.png OpenCorePkg/
+          mkdir -p OpenCorePkg/Doxy/html/ && cp ./favicon.ico OpenCorePkg/Doxy/html/
 
       - name: Doxygen Action
         uses: mattnotmitt/doxygen-action@v1
