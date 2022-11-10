@@ -29,10 +29,11 @@ jobs:
           rm OpenCorePkg/Doxyfile && cp ./Doxyfile OpenCorePkg/
           cp ./assets/* OpenCorePkg/
           mkdir -p OpenCorePkg/Doxy/html/ && cp ./assets/favicon.ico OpenCorePkg/Doxy/html/
+          sed -i 's/@OC_VERSION@/${{ steps.get_tag.outputs.tag }}/g' OpenCorePkg/Doxyfile
           sed -i 's/@OC_VERSION@/${{ steps.get_tag.outputs.tag }}/g' OpenCorePkg/mainpage.md
 
       - name: Doxygen Action
-        uses: mattnotmitt/doxygen-action@edge
+        uses: mattnotmitt/doxygen-action@1.9.4
         with:
             doxyfile-path: ./Doxyfile
             working-directory: OpenCorePkg/
