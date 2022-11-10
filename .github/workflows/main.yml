@@ -27,8 +27,9 @@ jobs:
       - name: Install Files
         run: |
           rm OpenCorePkg/Doxyfile && cp ./Doxyfile OpenCorePkg/
-          cp ./logo.png OpenCorePkg/
-          mkdir -p OpenCorePkg/Doxy/html/ && cp ./favicon.ico OpenCorePkg/Doxy/html/
+          cp ./assets/* OpenCorePkg/
+          mkdir -p OpenCorePkg/Doxy/html/ && cp ./assets/favicon.ico OpenCorePkg/Doxy/html/
+          sed -i 's/@OC_VERSION@/${{ steps.get_tag.outputs.tag }}/g' OpenCorePkg/mainpage.md
 
       - name: Doxygen Action
         uses: mattnotmitt/doxygen-action@edge
