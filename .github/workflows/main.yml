@@ -10,14 +10,14 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
 
       - name: Get Tag
         id: get_tag
-        run: echo "::set-output name=tag::$(<oc-tag.txt)"
+        run: echo "tag=$(<oc-tag.txt)" >> $GITHUB_OUTPUT
 
       - name: Checkout Oc
-        uses: actions/checkout@v2
+        uses: actions/checkout@v3
         with:
           repository: acidanthera/OpenCorePkg
           path: OpenCorePkg
@@ -34,7 +34,7 @@ jobs:
           sed -i 's/@OC_VERSION@/${{ steps.get_tag.outputs.tag }}/g' OpenCorePkg/mainpage.md
 
       - name: Doxygen Action
-        uses: mattnotmitt/doxygen-action@edge
+        uses: mattnotmitt/doxygen-action@v1
         with:
             doxyfile-path: ./Doxyfile
             working-directory: OpenCorePkg/
