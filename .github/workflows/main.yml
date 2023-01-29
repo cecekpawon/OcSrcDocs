@@ -2,7 +2,8 @@ name: OcSrcDocs
 
 on:
   workflow_dispatch:
-    branches: [ master ]
+  schedule:
+    - cron: '0 0 * * *'
 
 jobs:
   build-oc-docs:
@@ -14,9 +15,14 @@ jobs:
 
       - name: Get Tag
         id: get_tag
-        run: echo "tag=$(<oc-tag.txt)" >> $GITHUB_OUTPUT
+        run: |
+          latesttag=$(curl -s https://api.github.com/repos/acidanthera/OpenCorePkg/releases/latest | jq -r .tag_name)
+          currenttag=$(<oc-tag.txt)
+          echo is_modified=$([[ $latesttag == $currenttag ]] && echo "no" || echo "yes") >> $GITHUB_OUTPUT
+          echo tag=$currenttag >> $GITHUB_OUTPUT
 
       - name: Checkout Oc
+        if: steps.get_tag.outputs.is_modified == 'yes'
         uses: actions/checkout@v3
         with:
           repository: acidanthera/OpenCorePkg
@@ -25,6 +31,7 @@ jobs:
           fetch-depth: 1
 
       - name: Install Files
+        if: steps.get_tag.outputs.is_modified == 'yes'
         run: |
           cp ./Doxyfile OpenCorePkg/
           cp ./assets/* OpenCorePkg/
@@ -34,12 +41,14 @@ jobs:
           sed -i 's/@OC_VERSION@/${{ steps.get_tag.outputs.tag }}/g' OpenCorePkg/mainpage.md
 
       - name: Doxygen Action
+        if: steps.get_tag.outputs.is_modified == 'yes'
         uses: mattnotmitt/doxygen-action@v1
         with:
             doxyfile-path: ./Doxyfile
             working-directory: OpenCorePkg/
 
       - name: GH Pages Deployment
+        if: steps.get_tag.outputs.is_modified == 'yes'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
