@@ -44,7 +44,7 @@ jobs:
           push: true
 
       - name: Checkout Oc
-        if: steps.get_tag.outputs.is_modified == 'yes'
+        if: steps.compare.outputs.is_modified == 'yes'
         uses: actions/checkout@v3
         with:
           repository: acidanthera/OpenCorePkg
