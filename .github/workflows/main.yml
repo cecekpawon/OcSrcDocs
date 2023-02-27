@@ -19,8 +19,13 @@ jobs:
       - name: Get Tag
         id: get_tag
         run: |
-          curl -s https://api.github.com/repos/acidanthera/OpenCorePkg/releases/latest | jq -r .tag_name > ${{ env.versioncheckpath }}
-          echo tag=$(<${{ env.versioncheckpath }}) >> $GITHUB_OUTPUT
+          echo "Old tag: $(<${{ env.versioncheckpath }})"
+          txt=$(curl -s https://api.github.com/repos/acidanthera/OpenCorePkg/releases/latest | jq -r .tag_name)
+          if [[ "$txt" =~ ^[0-9]\.[0-9]\.[0-9] ]]; then
+            echo "$txt" > ${{ env.versioncheckpath }}
+            echo tag=$(<${{ env.versioncheckpath }}) >> $GITHUB_OUTPUT
+          fi
+          echo "New tag: $(<${{ env.versioncheckpath }})"
 
       - name: Compare
         id: compare
