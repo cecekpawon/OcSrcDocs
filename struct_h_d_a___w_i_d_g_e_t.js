@@ -1,0 +1,27 @@
+var struct_h_d_a___w_i_d_g_e_t =
+[
+    [ "AmpInCapabilities", "struct_h_d_a___w_i_d_g_e_t.html#a3223c863b0e432f815b6a0bb9a5f159a", null ],
+    [ "AmpInLeftDefaultGainMute", "struct_h_d_a___w_i_d_g_e_t.html#aa731063135eab5a937d66ff15f7eb3fd", null ],
+    [ "AmpInRightDefaultGainMute", "struct_h_d_a___w_i_d_g_e_t.html#ae8991d75e907248ed257424f01edf802", null ],
+    [ "AmpOutCapabilities", "struct_h_d_a___w_i_d_g_e_t.html#aee42a106d24810ab4e04923017110b09", null ],
+    [ "AmpOutLeftDefaultGainMute", "struct_h_d_a___w_i_d_g_e_t.html#ad481fc1d52c07076819d25a9ac76e5a0", null ],
+    [ "AmpOutRightDefaultGainMute", "struct_h_d_a___w_i_d_g_e_t.html#a58cf211595181e8b5e3b794f0b782c15", null ],
+    [ "Capabilities", "struct_h_d_a___w_i_d_g_e_t.html#abb8dbccdc2622620029bd014eab31368", null ],
+    [ "ConnectionCount", "struct_h_d_a___w_i_d_g_e_t.html#a426f108dcca597cdbdb66f38f44eb6f4", null ],
+    [ "Connections", "struct_h_d_a___w_i_d_g_e_t.html#a6b37326d2cb5ef0429ab5572d81375e3", null ],
+    [ "DefaultConfiguration", "struct_h_d_a___w_i_d_g_e_t.html#a3ebe98cec812ccf3bff228b3f068914d", null ],
+    [ "DefaultConvChannelCount", "struct_h_d_a___w_i_d_g_e_t.html#a40adbf9bb3f5e6a120606598f13a0d59", null ],
+    [ "DefaultConvFormat", "struct_h_d_a___w_i_d_g_e_t.html#adb76bb435bc7b6ef7523bb8d3bdb08d5", null ],
+    [ "DefaultConvStreamChannel", "struct_h_d_a___w_i_d_g_e_t.html#aabeb65c035b0465889132ef2eaae8c0e", null ],
+    [ "DefaultEapd", "struct_h_d_a___w_i_d_g_e_t.html#a2e007961520a1d4f97dffad287a23e8c", null ],
+    [ "DefaultPinControl", "struct_h_d_a___w_i_d_g_e_t.html#a0722d5602cb00ea30bafd9c286f7e7e8", null ],
+    [ "DefaultPowerState", "struct_h_d_a___w_i_d_g_e_t.html#a52cf02b1f10edc4ad2980ac7de0d16f2", null ],
+    [ "DefaultUnSol", "struct_h_d_a___w_i_d_g_e_t.html#ace3a8439d268a352a765e109ca43c6f3", null ],
+    [ "DefaultVolume", "struct_h_d_a___w_i_d_g_e_t.html#a9b630afee5c3aebb429a62222d3cdcdc", null ],
+    [ "NodeId", "struct_h_d_a___w_i_d_g_e_t.html#a4a5b16cd964069c09892bc6bef7a9d02", null ],
+    [ "PinCapabilities", "struct_h_d_a___w_i_d_g_e_t.html#ae6e6fb77b1a08c11614f08f6c3bdef88", null ],
+    [ "SupportedFormats", "struct_h_d_a___w_i_d_g_e_t.html#a993df9ac2a19f48a9fe2009d7d2d19e9", null ],
+    [ "SupportedPcmRates", "struct_h_d_a___w_i_d_g_e_t.html#a4d106d334d2527b33d6f335b69436c07", null ],
+    [ "SupportedPowerStates", "struct_h_d_a___w_i_d_g_e_t.html#a5bbecabe1eb04e51816cfc0b9ab12507", null ],
+    [ "VolumeCapabilities", "struct_h_d_a___w_i_d_g_e_t.html#a5fc015103a43b7f5835ddffc376d9d61", null ]
+];

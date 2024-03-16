@@ -1,0 +1,28 @@
+var _oc_smc_lib_8c =
+[
+    [ "EraseAuthenticationKey", "_oc_smc_lib_8c.html#af27e5e36b992d885b58185939876d0d9", null ],
+    [ "ExportStatusKey", "_oc_smc_lib_8c.html#aaac9ae50a806cf86c7154f941fe807a4", null ],
+    [ "ExtractAuthentificationKey", "_oc_smc_lib_8c.html#ad42f494c1935204aa6ee1ae771f2461b", null ],
+    [ "LoadAuthenticationKey", "_oc_smc_lib_8c.html#a1c644fd48dbcfd76d70a078dc2083fa8", null ],
+    [ "OcSmcIoInstallProtocol", "_oc_smc_lib_8c.html#a76a2b3d3ae56657cff970d9b1b3d3fd5", null ],
+    [ "SmcIoVirtualSmcFlashAuth", "_oc_smc_lib_8c.html#a617ce907868464da449dffba5111dd0e", null ],
+    [ "SmcIoVirtualSmcFlashType", "_oc_smc_lib_8c.html#ab950ab94c28013054c3b533443d2e2f8", null ],
+    [ "SmcIoVirtualSmcFlashWrite", "_oc_smc_lib_8c.html#a64a4a2854ec3053d2dff5b497ab97cf6", null ],
+    [ "SmcIoVirtualSmcGetKeyCount", "_oc_smc_lib_8c.html#a0e9a6140ff2ec26e7ada72a0d6e33099", null ],
+    [ "SmcIoVirtualSmcGetKeyFromIndex", "_oc_smc_lib_8c.html#af40e175fb8b9801e356faf6b8e1b4527", null ],
+    [ "SmcIoVirtualSmcGetKeyInfo", "_oc_smc_lib_8c.html#a910059575a8751223d7f302dd1b8bc42", null ],
+    [ "SmcIoVirtualSmcMakeKey", "_oc_smc_lib_8c.html#a0dac287647f5da34f17915a44ca8317e", null ],
+    [ "SmcIoVirtualSmcReadValue", "_oc_smc_lib_8c.html#ac1312ad82895ce9e95b9ee9d0f723257", null ],
+    [ "SmcIoVirtualSmcReset", "_oc_smc_lib_8c.html#ac3949f49c1456401bf481f3226bcecd7", null ],
+    [ "SmcIoVirtualSmcUnknown1", "_oc_smc_lib_8c.html#a3dfe4e7fcc1f60bbe87109bf99a92c28", null ],
+    [ "SmcIoVirtualSmcUnknown2", "_oc_smc_lib_8c.html#a7ae60723737d7aff5e40f387b4313880", null ],
+    [ "SmcIoVirtualSmcUnknown3", "_oc_smc_lib_8c.html#a1bef0d7ef0609334bf5c42e173d945a6", null ],
+    [ "SmcIoVirtualSmcUnknown4", "_oc_smc_lib_8c.html#ada94e1e60e9e4a4f3a0d6e64ceb39d7a", null ],
+    [ "SmcIoVirtualSmcUnknown5", "_oc_smc_lib_8c.html#a5e80f068940ef480a8725bf9e2033e51", null ],
+    [ "SmcIoVirtualSmcUnsupported", "_oc_smc_lib_8c.html#af764fde4e7b1c2b0d962468d62c9e86e", null ],
+    [ "SmcIoVirtualSmcWriteValue", "_oc_smc_lib_8c.html#a92bf146e4d82f637eccc9afd29f26cc2", null ],
+    [ "mAuthenticationKeyEraseEvent", "_oc_smc_lib_8c.html#a910d12993e56515a4207f49438ba4397", null ],
+    [ "mAuthenticationKeyIndex", "_oc_smc_lib_8c.html#a73ab4ff73bba185399200c0eaa20abda", null ],
+    [ "mSmcIoProtocol", "_oc_smc_lib_8c.html#a8304db831d71a2c2c032a5920bf44301", null ],
+    [ "mVirtualSmcKeyValue", "_oc_smc_lib_8c.html#a0b944c7710433ee9f6f3d50e8cc3f63b", null ]
+];

@@ -1,0 +1,25 @@
+var _industry_standard_2_apple_disk_image_8h =
+[
+    [ "APPLE_DISK_IMAGE_CHECKSUM_", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___c_h_e_c_k_s_u_m__.html", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___c_h_e_c_k_s_u_m__" ],
+    [ "APPLE_DISK_IMAGE_CHUNK_", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___c_h_u_n_k__.html", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___c_h_u_n_k__" ],
+    [ "APPLE_DISK_IMAGE_BLOCK_DATA_", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___b_l_o_c_k___d_a_t_a__.html", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___b_l_o_c_k___d_a_t_a__" ],
+    [ "APPLE_DISK_IMAGE_TRAILER_", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___t_r_a_i_l_e_r__.html", "struct_a_p_p_l_e___d_i_s_k___i_m_a_g_e___t_r_a_i_l_e_r__" ],
+    [ "APPLE_DISK_IMAGE_BLOCK_DATA_MAGIC", "_industry_standard_2_apple_disk_image_8h.html#a873754a3966a0ba6466c29187a6a8d39", null ],
+    [ "APPLE_DISK_IMAGE_CHECKSUM_SIZE", "_industry_standard_2_apple_disk_image_8h.html#add8dcbc8e4b0a1ff8f72417898120ee2", null ],
+    [ "APPLE_DISK_IMAGE_CHECKSUM_TYPE_CRC32", "_industry_standard_2_apple_disk_image_8h.html#a733e1b68c99d5e43f9ad20f46a9abb6f", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_ADC", "_industry_standard_2_apple_disk_image_8h.html#a8ce1a85e6ce365dec6bc12cd0945e6b6", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_BZ2", "_industry_standard_2_apple_disk_image_8h.html#ad1de2c6962ec35e179f3e7e5fb585048", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_COMMENT", "_industry_standard_2_apple_disk_image_8h.html#a5ef80c338bad7a8741dda0e80d05bfe8", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_IGNORE", "_industry_standard_2_apple_disk_image_8h.html#a786debc6da3523742574a82754ad46ba", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_LAST", "_industry_standard_2_apple_disk_image_8h.html#a4ab95ec8cbd70fd7d423f7658676b48b", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_RAW", "_industry_standard_2_apple_disk_image_8h.html#afdd6c888076fe9b66f85da7bf2ff5b66", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_ZERO", "_industry_standard_2_apple_disk_image_8h.html#ae436b613cbf01941541e176238a5e53c", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK_TYPE_ZLIB", "_industry_standard_2_apple_disk_image_8h.html#a5294d7405666442e5857b98788f1e9dc", null ],
+    [ "APPLE_DISK_IMAGE_MAGIC", "_industry_standard_2_apple_disk_image_8h.html#a8a754192ef9ec20dc9717db9a3f891ca", null ],
+    [ "APPLE_DISK_IMAGE_SECTOR_SIZE", "_industry_standard_2_apple_disk_image_8h.html#a9e918f27ea17ceb31b90ba9cfc0bb35a", null ],
+    [ "APPLE_DISK_IMAGE_VERSION", "_industry_standard_2_apple_disk_image_8h.html#a8426b90817386df237055ff2e6d49791", null ],
+    [ "APPLE_DISK_IMAGE_BLOCK_DATA", "_industry_standard_2_apple_disk_image_8h.html#a58fceda54d8cc8c260583f444e20d2e8", null ],
+    [ "APPLE_DISK_IMAGE_CHECKSUM", "_industry_standard_2_apple_disk_image_8h.html#a725a547a2fce89990bf1ce752ceadbac", null ],
+    [ "APPLE_DISK_IMAGE_CHUNK", "_industry_standard_2_apple_disk_image_8h.html#ae1472b1fcc905c9d4641563dcc92a934", null ],
+    [ "APPLE_DISK_IMAGE_TRAILER", "_industry_standard_2_apple_disk_image_8h.html#a292b534c5332f7d30b2a380087beb72a", null ]
+];

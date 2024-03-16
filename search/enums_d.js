@@ -1,0 +1,20 @@
+var searchData=
+[
+  ['oc_5fconsole_5frenderer_0',['OC_CONSOLE_RENDERER',['../_oc_console_lib_8h.html#a642b664089ba954221533f246fae3995',1,'OcConsoleLib.h']]],
+  ['oc_5fcpu_5fgeneration_1',['OC_CPU_GENERATION',['../_oc_cpu_lib_8h.html#a2f9b8992c587ba2aa5fa9b3d95a77ff1',1,'OcCpuLib.h']]],
+  ['oc_5fdmg_5floading_5fsupport_2',['OC_DMG_LOADING_SUPPORT',['../_oc_boot_management_lib_8h.html#a88c3ab4cd90aea9395d3d67c1ad8de3e',1,'OcBootManagementLib.h']]],
+  ['oc_5fget_5fsymbol_5flevel_3',['OC_GET_SYMBOL_LEVEL',['../_prelinked_internal_8h.html#a8d3650eb9c3e79c01443ba933d2003cb',1,'PrelinkedInternal.h']]],
+  ['oc_5fget_5fsymbol_5ftype_4',['OC_GET_SYMBOL_TYPE',['../_prelinked_internal_8h.html#ae2cb3e64ccb04a14173c6fb80cd09691',1,'PrelinkedInternal.h']]],
+  ['oc_5finput_5fkey_5fmode_5',['OC_INPUT_KEY_MODE',['../_oc_input_lib_8h.html#a47848f20b46836994fb7d2ddef270d0d',1,'OcInputLib.h']]],
+  ['oc_5finput_5fpointer_5fmode_6',['OC_INPUT_POINTER_MODE',['../_oc_input_lib_8h.html#ae1f3f4eef81b0e3921e7fc95f10383d2',1,'OcInputLib.h']]],
+  ['oc_5fkext_5fversion_5fstage_7',['OC_KEXT_VERSION_STAGE',['../_prelinked_internal_8h.html#aa6456e0284f83d6efa79b795f30c6698',1,'PrelinkedInternal.h']]],
+  ['oc_5flegacy_5fos_5ftype_5f_8',['OC_LEGACY_OS_TYPE_',['../_legacy_boot_internal_8h.html#a290ae70c2af7f235007c53abdb1b7b00',1,'LegacyBootInternal.h']]],
+  ['oc_5fpicker_5fcmd_9',['OC_PICKER_CMD',['../_oc_boot_management_lib_8h.html#a1d0393029b8e2de5800689ba32f0b1cb',1,'OcBootManagementLib.h']]],
+  ['oc_5fpicker_5fmode_5f_10',['OC_PICKER_MODE_',['../_oc_boot_management_lib_8h.html#ad3c380cee4d25f0048ec7d4c5af59085',1,'OcBootManagementLib.h']]],
+  ['oc_5fprivilege_5flevel_11',['OC_PRIVILEGE_LEVEL',['../_oc_boot_management_lib_8h.html#adf8970351b36f1c80c271edd37219387',1,'OcBootManagementLib.h']]],
+  ['oc_5fschema_5fblob_5ftype_5f_12',['OC_SCHEMA_BLOB_TYPE_',['../_oc_serialize_lib_8h.html#af93f6f64adf32c1df8d497277416e590',1,'OcSerializeLib.h']]],
+  ['oc_5fschema_5fvalue_5ftype_5f_13',['OC_SCHEMA_VALUE_TYPE_',['../_oc_serialize_lib_8h.html#acc665ab134a2f4328360d114654d6687',1,'OcSerializeLib.h']]],
+  ['oc_5fsig_5fhash_5ftype_5f_14',['OC_SIG_HASH_TYPE_',['../_oc_crypto_lib_8h.html#ad07926dec47003fc1718a859ad28e671',1,'OcCryptoLib.h']]],
+  ['oc_5fsmbios_5fupdate_5fmode_5f_15',['OC_SMBIOS_UPDATE_MODE_',['../_oc_smbios_lib_8h.html#acf8ad1c900e78852e4e5ac1f96224b67',1,'OcSmbiosLib.h']]],
+  ['ocs_5fvault_5fmode_16',['OCS_VAULT_MODE',['../_oc_configuration_lib_8h.html#a1856560e3aecccb90cf0dc312f0bfa78',1,'OcConfigurationLib.h']]]
+];

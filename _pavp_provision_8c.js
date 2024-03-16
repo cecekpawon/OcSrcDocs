@@ -1,0 +1,25 @@
+var _pavp_provision_8c =
+[
+    [ "FORCE_PROVISIONING", "_pavp_provision_8c.html#abc57b7cea30dbce42c2f28578416a990", null ],
+    [ "MmPci32", "_pavp_provision_8c.html#ac86606ca0779a8bfded92b615e30e037", null ],
+    [ "MmPciAddress", "_pavp_provision_8c.html#a484c0209e490a2caec3e063d64a78fd9", null ],
+    [ "R_SA_PAVPC", "_pavp_provision_8c.html#a7bdfb89fe0fc277696849e48e68c901f", null ],
+    [ "SA_MC_BUS", "_pavp_provision_8c.html#ad57fae979389225f9c4ba918ad37f530", null ],
+    [ "GetGroupPublicKey", "_pavp_provision_8c.html#a609d33e27a2d8a3def1da474c80417ab", null ],
+    [ "IsBuiltinGpuAvailable", "_pavp_provision_8c.html#a1555dc9a269017772f46559fe5dff3d0", null ],
+    [ "NeedsEpidProvisioning", "_pavp_provision_8c.html#a2a8a96bc98529831d3f83e16f8c3454f", null ],
+    [ "NeedsFpfProvisioning", "_pavp_provision_8c.html#ac5199a9d3b302526bba7229e897b917b", null ],
+    [ "OcPerformEpidProvisioning", "_pavp_provision_8c.html#a61643c7b223424f47b1a577b69fc741b", null ],
+    [ "OcPerformFpfProvisioning", "_pavp_provision_8c.html#ac47631f1896802e671e77b763df19648", null ],
+    [ "OcPerformProvisioning", "_pavp_provision_8c.html#aa1903e38a5eb1bb3c1a1bb298d40be43", null ],
+    [ "ReadProvisioningData", "_pavp_provision_8c.html#ab2818f00ec5206f504b3933a1b880260", null ],
+    [ "ReadProvisioningDataFile", "_pavp_provision_8c.html#a5def0e8a8c25bdccdcabeec0ee344ab4", null ],
+    [ "SetProvisioningVariable", "_pavp_provision_8c.html#a502c2e67fbe4038914b5396c208238d4", null ],
+    [ "UefiMain", "_pavp_provision_8c.html#a4543a5a55cc1edd61839589f5a06ccb6", null ],
+    [ "gDefaultAppleEpidCertificate", "_pavp_provision_8c.html#a7598b3bce7d0706e4ccb049866eb6b7f", null ],
+    [ "gDefaultAppleEpidCertificateSize", "_pavp_provision_8c.html#a3ede32123429053071cd4cf2fe1c7f3e", null ],
+    [ "gDefaultAppleGroupPublicKeys", "_pavp_provision_8c.html#ae2bb4f1d339180965b9703bda42985e1", null ],
+    [ "gDefaultAppleGroupPublicKeysSize", "_pavp_provision_8c.html#ac75826a67f96b677b6d0562d7d66fad8", null ],
+    [ "mMeClientActiveCount", "_pavp_provision_8c.html#a3da9be3cae82747d360ca63ae1079c48", null ],
+    [ "mMeClientMap", "_pavp_provision_8c.html#a51d68df1e62ba9a72085c0671c43e615", null ]
+];

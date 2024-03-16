@@ -1,0 +1,26 @@
+var _open_core_kernel_8c =
+[
+    [ "OcKernelConfigureCapabilities", "_open_core_kernel_8c.html#a9232ad6d4418a377c5780068ae8eb4e5", null ],
+    [ "OcKernelFileOpen", "_open_core_kernel_8c.html#ab9bcc76b462741ef6788410a5fc6f992", null ],
+    [ "OcKernelFuzzyMatch", "_open_core_kernel_8c.html#af0ed5c93548baf3ba8b23c7faf99418f", null ],
+    [ "OcKernelInitCacheless", "_open_core_kernel_8c.html#a93c35c525dbb0a5fac9efeb00d8891c9", null ],
+    [ "OcKernelInjectKext", "_open_core_kernel_8c.html#af5a5ff68db39a899f95789b94d0c8ddf", null ],
+    [ "OcKernelInjectKexts", "_open_core_kernel_8c.html#a7e9db70f9c902987de5a3baea4a9abdf", null ],
+    [ "OcKernelLoadAndReserveKext", "_open_core_kernel_8c.html#af5ae5de0b0796090b5096b397aa8f3a6", null ],
+    [ "OcKernelLoadKextsAndReserve", "_open_core_kernel_8c.html#ac4fe39857fbd1494a006e25cbec92f24", null ],
+    [ "OcKernelProcessMkext", "_open_core_kernel_8c.html#a135d5781750dc684b2b965a12914e442", null ],
+    [ "OcKernelProcessPrelinked", "_open_core_kernel_8c.html#aab41cacafd695a77e2c5f22f0928219f", null ],
+    [ "OcKernelReadAppleKernel", "_open_core_kernel_8c.html#a3324b2fb08c421ccb4c34b538e55ea0b", null ],
+    [ "OcLoadKernelSupport", "_open_core_kernel_8c.html#ab6d74a2a2eccd7e64c1807081aa1f40c", null ],
+    [ "OcUnloadKernelSupport", "_open_core_kernel_8c.html#a214ce91e1e52fb7d6cade365bde1fe4b", null ],
+    [ "mCustomKernelDirectory", "_open_core_kernel_8c.html#a08a20f77d5429aa0d6f84d2a85e0049c", null ],
+    [ "mCustomKernelDirectoryInProgress", "_open_core_kernel_8c.html#ae8198da1387393c760ed43e06b861329", null ],
+    [ "mKernelDigest", "_open_core_kernel_8c.html#a5fe718496a72806a87e28725e015ef86", null ],
+    [ "mOcCachelessContext", "_open_core_kernel_8c.html#aa8557964234e89c87d691d83c95c845d", null ],
+    [ "mOcCachelessInProgress", "_open_core_kernel_8c.html#a3f2d5522e378ca2617fab66c7b27247a", null ],
+    [ "mOcConfiguration", "_open_core_kernel_8c.html#a1bb9432520858ac01a48cf50ed8d7068", null ],
+    [ "mOcCpuInfo", "_open_core_kernel_8c.html#a0d006d96e51e07c1227c2474b3c9625c", null ],
+    [ "mOcDarwinVersion", "_open_core_kernel_8c.html#af4c35c46d1e85974a680c20f4fb4e0fa", null ],
+    [ "mOcStorage", "_open_core_kernel_8c.html#a6915d90f95e0979df5de589cea66580a", null ],
+    [ "mUse32BitKernel", "_open_core_kernel_8c.html#ae54466880fd282e363da995d95640c35", null ]
+];

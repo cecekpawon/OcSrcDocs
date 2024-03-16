@@ -1,0 +1,27 @@
+var _riff_8h =
+[
+    [ "RIFF_CHUNK", "struct_r_i_f_f___c_h_u_n_k.html", "struct_r_i_f_f___c_h_u_n_k" ],
+    [ "WAVE_FORMAT_DATA", "struct_w_a_v_e___f_o_r_m_a_t___d_a_t_a.html", "struct_w_a_v_e___f_o_r_m_a_t___d_a_t_a" ],
+    [ "WAVE_FORMAT_DATA_EX", "struct_w_a_v_e___f_o_r_m_a_t___d_a_t_a___e_x.html", "struct_w_a_v_e___f_o_r_m_a_t___d_a_t_a___e_x" ],
+    [ "LIST_CHUNK_ID", "_riff_8h.html#a01f3b511c2455f84938ae931fade9591", null ],
+    [ "PAL_CHUNK_ID", "_riff_8h.html#ab43225b1fba5631013b9a2ad8865ae33", null ],
+    [ "RDIB_CHUNK_ID", "_riff_8h.html#ac41bd8fca41be8d875df452f49599c9b", null ],
+    [ "RIFF_CHUNK_ID", "_riff_8h.html#a8cf7c591401f8060f4dbfcae0a81999b", null ],
+    [ "RIFF_CHUNK_ID_SIZE", "_riff_8h.html#aca89e71d9f39617c3c3cc67610757251", null ],
+    [ "RMID_CHUNK_ID", "_riff_8h.html#a47262b16cdac26c25c5bc655f0680f90", null ],
+    [ "RMMP_CHUNK_ID", "_riff_8h.html#aeaa4808d621e208a53bc9e5efcd1aeeb", null ],
+    [ "WAVE_CHUNK_ID", "_riff_8h.html#ac2a7c854b9204e3c08386955f2baed44", null ],
+    [ "WAVE_CUE_CHUNK_ID", "_riff_8h.html#ad7db72f233b1b3fe0ccb0690c53a9c33", null ],
+    [ "WAVE_DATA_CHUNK_ID", "_riff_8h.html#a8b12c0b7b8d33b80830d1c858799ab53", null ],
+    [ "WAVE_FACT_CHUNK_ID", "_riff_8h.html#ae7ca2cca32fa8036e85cef7bfd22a305", null ],
+    [ "WAVE_FILE_CHUNK_ID", "_riff_8h.html#a932c448707b96751e2997577f6d4d700", null ],
+    [ "WAVE_FORMAT_CHUNK_ID", "_riff_8h.html#a032e47aae6d88412333575d9eda1bd31", null ],
+    [ "WAVE_FORMAT_EXTENSIBLE", "_riff_8h.html#a97cbfca9458338218863c675bea01194", null ],
+    [ "WAVE_FORMAT_PCM", "_riff_8h.html#abf8ff615d1a5d5b851f5c0b40bf16fef", null ],
+    [ "WAVE_LABEL_CHUNK_ID", "_riff_8h.html#a06d7359d00a11aea0c1a9ea199d10657", null ],
+    [ "WAVE_NOTE_CHUNK_ID", "_riff_8h.html#aaab70b1e90dbdb039f42361101b2ae5d", null ],
+    [ "WAVE_PLAYLIST_CHUNK_ID", "_riff_8h.html#a0dc5ab196d39506fec51e735398cdbc3", null ],
+    [ "WAVE_SILENCE_CHUNK_ID", "_riff_8h.html#a463f80d7a7a778e5f92113e95a1083db", null ],
+    [ "WAVE_TEXT_DATA_CHUNK_ID", "_riff_8h.html#a34d00d655961d78397cba59ca22b9407", null ],
+    [ "WAVE_WAVE_LIST_CHUNK_ID", "_riff_8h.html#a7ce97ee78477c46add789049a533be6d", null ]
+];

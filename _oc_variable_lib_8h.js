@@ -1,0 +1,37 @@
+var _oc_variable_lib_8h =
+[
+    [ "OPEN_CORE_INT_NVRAM_ATTR", "_oc_variable_lib_8h.html#a91f052d2b99fdd257600ce03ba663c67", null ],
+    [ "OPEN_CORE_NVRAM_ATTR", "_oc_variable_lib_8h.html#a279c45dd56d77676c00705132bec802b", null ],
+    [ "OPEN_CORE_NVRAM_FALLBACK_FILENAME", "_oc_variable_lib_8h.html#adf596511951d6f2adf215410594a159c", null ],
+    [ "OPEN_CORE_NVRAM_FILENAME", "_oc_variable_lib_8h.html#a9d399205818a2aa3477fe08c0d2382ce", null ],
+    [ "OPEN_CORE_NVRAM_NV_ATTR", "_oc_variable_lib_8h.html#a92820df21978a125a2e0cef8558d8e56", null ],
+    [ "OPEN_CORE_NVRAM_ROOT_PATH", "_oc_variable_lib_8h.html#a02e4570084980ac2570f89a845fb48cf", null ],
+    [ "OPEN_CORE_NVRAM_USED_FILENAME", "_oc_variable_lib_8h.html#af14e98ce809c3f7e2b8d667d3412b145", null ],
+    [ "OC_PROCESS_VARIABLE", "_oc_variable_lib_8h.html#a1ec6fd94a57d19bdb26397ca8f1c8288", null ],
+    [ "OC_PROCESS_VARIABLE_RESULT", "_oc_variable_lib_8h.html#a036e45afae3a906026ea57eaec7d1531", null ],
+    [ "_OC_PROCESS_VARIABLE_RESULT", "_oc_variable_lib_8h.html#ad618785962435326d7811515fc9663b1", [
+      [ "OcProcessVariableContinue", "_oc_variable_lib_8h.html#ad618785962435326d7811515fc9663b1a0a4d3af47c787987ffaab324ba437078", null ],
+      [ "OcProcessVariableRestart", "_oc_variable_lib_8h.html#ad618785962435326d7811515fc9663b1a3c7aa420bb6c6c1025630f3a79cb8c1d", null ],
+      [ "OcProcessVariableAbort", "_oc_variable_lib_8h.html#ad618785962435326d7811515fc9663b1a3eacb831bd411e1aa9edc06a366d215c", null ]
+    ] ],
+    [ "OcDeleteVariables", "_oc_variable_lib_8h.html#ad89ab358fd35f308ddc320d04b593ec6", null ],
+    [ "OcDisableNvramProtection", "_oc_variable_lib_8h.html#ab8ea6baa7db0353869c01862f068e2ff", null ],
+    [ "OcGetBootOptionData", "_oc_variable_lib_8h.html#aee99e037795bdad98028928e80ca0c09", null ],
+    [ "OcGetSip", "_oc_variable_lib_8h.html#a18eff0585c80861c05f06daba2d9daf9", null ],
+    [ "OcIsSipEnabled", "_oc_variable_lib_8h.html#a389fb5138f9dbc5674b21a7a0217f8ae", null ],
+    [ "OcLoadLegacyNvram", "_oc_variable_lib_8h.html#af8c106e6fa264466a363a88839c922a6", null ],
+    [ "OcProcessVariableGuid", "_oc_variable_lib_8h.html#a8acab3abd14709f9559b3bdb6af7654a", null ],
+    [ "OcResetLegacyNvram", "_oc_variable_lib_8h.html#a9e77956b918cedff50692ded1b8031dc", null ],
+    [ "OcResetNvram", "_oc_variable_lib_8h.html#ae5d0e2ca88f7cc90a5c33533b43750fd", null ],
+    [ "OcRestoreNvramProtection", "_oc_variable_lib_8h.html#acdb42518fa6290fc440432fef925ca2c", null ],
+    [ "OcSaveLegacyNvram", "_oc_variable_lib_8h.html#a74e4573d9fd0cf74ddd80570f9d6b6ce", null ],
+    [ "OcScanVariables", "_oc_variable_lib_8h.html#a24465a981256169051ff9534af93e332", null ],
+    [ "OcSetNvramVariable", "_oc_variable_lib_8h.html#a4dd0b894dfb60a78891de708cf4d090b", null ],
+    [ "OcSetSip", "_oc_variable_lib_8h.html#af70c4b2cd5fc921e66b7f4d26c554221", null ],
+    [ "OcSetSystemVariable", "_oc_variable_lib_8h.html#a0bdb57575a6db13b251563109ae6e685", null ],
+    [ "OcShimRetainProtocol", "_oc_variable_lib_8h.html#ab9c6a8e80ed3e6e40b23d3846424f187", null ],
+    [ "OcSwitchToFallbackLegacyNvram", "_oc_variable_lib_8h.html#a7dea14c879e690790b704685ae594209", null ],
+    [ "OcToggleSip", "_oc_variable_lib_8h.html#af514fb20475ea4c6b3ab607285890567", null ],
+    [ "OcVariableInit", "_oc_variable_lib_8h.html#aed92b3015a87c33db289fb4f4a040b7d", null ],
+    [ "OcVariableIsAllowedBySchemaEntry", "_oc_variable_lib_8h.html#a0c68c280e279508d0dda36c7aa9e823e", null ]
+];

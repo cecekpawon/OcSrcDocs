@@ -1,0 +1,27 @@
+var _apple_hid_8h =
+[
+    [ "APPLE_HID_GENERIC_USAGE", "_apple_hid_8h.html#ac870d79bd6c6503fe86eb53a77360cc8", null ],
+    [ "APPLE_HID_KP_SCAN_USAGE", "_apple_hid_8h.html#ad7498a27db097121f0fea015cdee7a8e", null ],
+    [ "APPLE_HID_REMOTE_USAGE", "_apple_hid_8h.html#af9313f10bf7ff1aa4b53b3f7d2f31fc8", null ],
+    [ "APPLE_HID_USB_KB_KP_USAGE", "_apple_hid_8h.html#a5f2df870b6991f8b226d98622324b414", null ],
+    [ "APPLE_MODIFIER_LEFT_COMMAND", "_apple_hid_8h.html#ade284ed4674252674118e8e8006d1c54", null ],
+    [ "APPLE_MODIFIER_LEFT_CONTROL", "_apple_hid_8h.html#ad5416ed30a1d6fc31f32af5ecbdfdb9b", null ],
+    [ "APPLE_MODIFIER_LEFT_OPTION", "_apple_hid_8h.html#aebed04a1730ab40a71062740b8403372", null ],
+    [ "APPLE_MODIFIER_LEFT_SHIFT", "_apple_hid_8h.html#ab048622fa49dd9846550f2b9d7354a27", null ],
+    [ "APPLE_MODIFIER_RIGHT_COMMAND", "_apple_hid_8h.html#ae60a691462ed8770f42bb2aba34d272d", null ],
+    [ "APPLE_MODIFIER_RIGHT_CONTROL", "_apple_hid_8h.html#a5cea1216b2e1b8bf33b98450c525fe31", null ],
+    [ "APPLE_MODIFIER_RIGHT_OPTION", "_apple_hid_8h.html#a2673d5662ca5b852021b5d48f99d03fe", null ],
+    [ "APPLE_MODIFIER_RIGHT_SHIFT", "_apple_hid_8h.html#a0cf8a064be7796e598c57bd4fe366926", null ],
+    [ "APPLE_MODIFIERS_COMMAND", "_apple_hid_8h.html#a4c3814ab6dfde57e240869387e4a5e3d", null ],
+    [ "APPLE_MODIFIERS_CONTROL", "_apple_hid_8h.html#a98a76bf21f71d0c4efdea7ecd7dffbb2", null ],
+    [ "APPLE_MODIFIERS_NONE", "_apple_hid_8h.html#a2a140aa1af6e5c0a93468ee65d1bad3b", null ],
+    [ "APPLE_MODIFIERS_OPTION", "_apple_hid_8h.html#ae0a684dcb59695bd6c51b2083b445df1", null ],
+    [ "APPLE_MODIFIERS_SHIFT", "_apple_hid_8h.html#ac425f95bca97580b421de1f171b3a51d", null ],
+    [ "IS_APPLE_KEY_LETTER", "_apple_hid_8h.html#a8883426b88ca8884dde933b9ce4f2775", null ],
+    [ "APPLE_HID_PAGE_ID", "_apple_hid_8h.html#a393367bc32b7e744d3e0a1cea5a3b3f5", null ],
+    [ "APPLE_HID_USAGE", "_apple_hid_8h.html#ae52d8e82ed8f3fb3c968086f37970079", null ],
+    [ "APPLE_HID_USAGE_ID", "_apple_hid_8h.html#a73fe58faf048bf97d1fa8cd74bec5eb2", null ],
+    [ "APPLE_KEY_CODE", "_apple_hid_8h.html#a8d2fc63bf912ded3405bc7e13eb910f8", null ],
+    [ "APPLE_MODIFIER_MAP", "_apple_hid_8h.html#ab5cfb0ffcc18a5d558ebb549d03b16be", null ],
+    [ "APPLE_SCAN_CODE", "_apple_hid_8h.html#a911e1d91751931d761ee20a4681a46a5", null ]
+];

@@ -1,0 +1,26 @@
+var _apple_csr_config_8h =
+[
+    [ "CSR_ALLOW_ANY_RECOVERY_OS", "_apple_csr_config_8h.html#aa87e24286a22889194c556e4f791a6d4", null ],
+    [ "CSR_ALLOW_APPLE_INTERNAL", "_apple_csr_config_8h.html#ac59efb46687e472d3584e32bffe11c15", null ],
+    [ "CSR_ALLOW_DESTRUCTIVE_DTRACE", "_apple_csr_config_8h.html#a84d427a64f623089018c8d732295f178", null ],
+    [ "CSR_ALLOW_DEVICE_CONFIGURATION", "_apple_csr_config_8h.html#ab8da00c2585ebfb9390d63099e9c3c67", null ],
+    [ "CSR_ALLOW_EXECUTABLE_POLICY_OVERRIDE", "_apple_csr_config_8h.html#ada6f563ae4d94d9c9dd38e4058d6ed8b", null ],
+    [ "CSR_ALLOW_KERNEL_DEBUGGER", "_apple_csr_config_8h.html#a22c82fd1acbf94691789557719dc0546", null ],
+    [ "CSR_ALLOW_TASK_FOR_PID", "_apple_csr_config_8h.html#adb1776f4e9877d6baabed386183718c8", null ],
+    [ "CSR_ALLOW_UNAPPROVED_KEXTS", "_apple_csr_config_8h.html#ae8dc8218f917fff0eaaf946ac0a30e75", null ],
+    [ "CSR_ALLOW_UNAUTHENTICATED_ROOT", "_apple_csr_config_8h.html#a8a2209c149414a5189d809bc4c97ea2b", null ],
+    [ "CSR_ALLOW_UNRESTRICTED_DTRACE", "_apple_csr_config_8h.html#aad25cad4530f4bb2222c310773272ba2", null ],
+    [ "CSR_ALLOW_UNRESTRICTED_FS", "_apple_csr_config_8h.html#a862782b2a4f8e0966ac7da66c92ea9e0", null ],
+    [ "CSR_ALLOW_UNRESTRICTED_NVRAM", "_apple_csr_config_8h.html#ac0a8c1c6b52ce4f6ec85902bd71ac6e1", null ],
+    [ "CSR_ALLOW_UNTRUSTED_KEXTS", "_apple_csr_config_8h.html#a15476bfd0f04399d501fa9c9fa5c9ddf", null ],
+    [ "CSR_ALWAYS_ENFORCED_FLAGS", "_apple_csr_config_8h.html#a0e4524a839750a94c5b277ccee029e1d", null ],
+    [ "CSR_APPLE_SIP_NVRAM_ATTR", "_apple_csr_config_8h.html#a1904251f0eb26501d48b769a0f256f60", null ],
+    [ "CSR_APPLE_SIP_NVRAM_NV_ATTR", "_apple_csr_config_8h.html#a833e25420d48f7ee3062e53e5ddab8ea", null ],
+    [ "CSR_CAPABILITY_APPLE_INTERNAL", "_apple_csr_config_8h.html#a40df89a0578361b3a7335a0ef14c1880", null ],
+    [ "CSR_CAPABILITY_CONFIG", "_apple_csr_config_8h.html#a6e5b35f8893535ea5fc1fb4584d4d438", null ],
+    [ "CSR_CAPABILITY_UNLIMITED", "_apple_csr_config_8h.html#a5d2151deaed32e7381dc0e6e745e3807", null ],
+    [ "CSR_DISABLE_FLAGS", "_apple_csr_config_8h.html#a4402abb0d1f77579c9815098ff9746e2", null ],
+    [ "CSR_VALID_CAPABILITIES", "_apple_csr_config_8h.html#ac12fbde3bc92584c5a15f6e9717c5ed7", null ],
+    [ "CSR_VALID_FLAGS", "_apple_csr_config_8h.html#a1cf450cfb47e8dd75de618982a27d641", null ],
+    [ "OC_CSR_DISABLE_FLAGS", "_apple_csr_config_8h.html#a5ec9f7c2f013207cc849c1f70e65cbc5", null ]
+];

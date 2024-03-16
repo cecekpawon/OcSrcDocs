@@ -1,0 +1,8 @@
+var struct_e_f_i___m_i_s_c___m_a_n_a_g_e_m_e_n_t___d_e_v_i_c_e___c_o_m_p_o_n_e_n_t___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a =
+[
+    [ "ComponentType", "struct_e_f_i___m_i_s_c___m_a_n_a_g_e_m_e_n_t___d_e_v_i_c_e___c_o_m_p_o_n_e_n_t___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#ad7d8ef8ab1dd27ae2bc37dad45571d44", null ],
+    [ "ManagementDeviceComponentDescription", "struct_e_f_i___m_i_s_c___m_a_n_a_g_e_m_e_n_t___d_e_v_i_c_e___c_o_m_p_o_n_e_n_t___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a4173216c96b3ab38168dc377b8d939ba", null ],
+    [ "ManagementDeviceComponentLink", "struct_e_f_i___m_i_s_c___m_a_n_a_g_e_m_e_n_t___d_e_v_i_c_e___c_o_m_p_o_n_e_n_t___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a8da583b5ddd07ff3710dabfe3249298a", null ],
+    [ "ManagementDeviceLink", "struct_e_f_i___m_i_s_c___m_a_n_a_g_e_m_e_n_t___d_e_v_i_c_e___c_o_m_p_o_n_e_n_t___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a897e9120f2e25956d8f75d92733c4618", null ],
+    [ "ManagementDeviceThresholdLink", "struct_e_f_i___m_i_s_c___m_a_n_a_g_e_m_e_n_t___d_e_v_i_c_e___c_o_m_p_o_n_e_n_t___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a46e6af5d7a216566cc7722adcf5184a3", null ]
+];

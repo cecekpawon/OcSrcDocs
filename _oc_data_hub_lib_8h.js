@@ -1,0 +1,25 @@
+var _oc_data_hub_lib_8h =
+[
+    [ "OC_DATA_HUB_DATA", "struct_o_c___d_a_t_a___h_u_b___d_a_t_a.html", "struct_o_c___d_a_t_a___h_u_b___d_a_t_a" ],
+    [ "OC_ART_FREQUENCY", "_oc_data_hub_lib_8h.html#a8d48b66a7711071bdce613098f65fc14", null ],
+    [ "OC_BOARD_PRODUCT", "_oc_data_hub_lib_8h.html#a0cb990d1da4ceb2d7664ed2ff52489af", null ],
+    [ "OC_BOARD_REVISION", "_oc_data_hub_lib_8h.html#aa893996e9f4bad941a836e05de5fd93e", null ],
+    [ "OC_COPROCESSOR_VERSION", "_oc_data_hub_lib_8h.html#a6c05345e65cbe75b4326a58a53fb3be2", null ],
+    [ "OC_DEVICE_PATHS_SUPPORTED", "_oc_data_hub_lib_8h.html#afe2752798a47bf82b87438298b91c731", null ],
+    [ "OC_FSB_FREQUENCY", "_oc_data_hub_lib_8h.html#adc792ccbe3bafa127bda054e22b30a7d", null ],
+    [ "OC_INITIAL_TSC", "_oc_data_hub_lib_8h.html#a4b90962c72e15cae31140782105e1b7c", null ],
+    [ "OC_PLATFORM_NAME", "_oc_data_hub_lib_8h.html#a5fee8a25a5934ec613a79559c9d0f44c", null ],
+    [ "OC_SMC_BRANCH", "_oc_data_hub_lib_8h.html#a9bb734889be988205be49b7f2b52e6ee", null ],
+    [ "OC_SMC_BRANCH_SIZE", "_oc_data_hub_lib_8h.html#a30783fff8e4ec0800662c386b0ca2562", null ],
+    [ "OC_SMC_PLATFORM", "_oc_data_hub_lib_8h.html#a5754d0cea217b9f32afa1eec3d20b013", null ],
+    [ "OC_SMC_PLATFORM_SIZE", "_oc_data_hub_lib_8h.html#af73355c001af2d3bf16038ad91d4c8e2", null ],
+    [ "OC_SMC_REVISION", "_oc_data_hub_lib_8h.html#af9dc68c51bfeb97a79eda0a90efd2368", null ],
+    [ "OC_SMC_REVISION_SIZE", "_oc_data_hub_lib_8h.html#ae190f89e6788d83f6c50b9891cd62537", null ],
+    [ "OC_STARTUP_POWER_EVENTS", "_oc_data_hub_lib_8h.html#ae1cb45c1fcdc78cee65f9634cab4d007", null ],
+    [ "OC_SYSTEM_PRODUCT_NAME", "_oc_data_hub_lib_8h.html#a8a2d1500487d689b7eb99ad8a51ed791", null ],
+    [ "OC_SYSTEM_SERIAL_NUMBER", "_oc_data_hub_lib_8h.html#a02e4358fafed7a0c17296410ce878176", null ],
+    [ "OC_SYSTEM_UUID", "_oc_data_hub_lib_8h.html#a4e8d8cd9b11f62aa1dc2da5660fc73e4", null ],
+    [ "OcDataHubInstallProtocol", "_oc_data_hub_lib_8h.html#afdc2c4ca4a9723d8c36afefaf42d83f8", null ],
+    [ "SetDataHubEntry", "_oc_data_hub_lib_8h.html#adfc9c95e3804f69fc78e44178c78c1f9", null ],
+    [ "UpdateDataHub", "_oc_data_hub_lib_8h.html#aea57f1377530d8eea5d983741670df95", null ]
+];

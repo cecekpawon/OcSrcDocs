@@ -1,0 +1,27 @@
+var _gen_page_8c =
+[
+    [ "CONVERT_BIN_PAGE_ADDRESS", "_gen_page_8c.html#aa6d1ff6edce40a6dfc4bb50c2c03f86d", null ],
+    [ "EFI_MAX_ENTRY_NUM", "_gen_page_8c.html#a4e161b136971bf9ac4c4cd28a6a03dd4", null ],
+    [ "EFI_PAGE_BASE_ADDRESS", "_gen_page_8c.html#a484467eef0f7c5814d7bc90271a5b13f", null ],
+    [ "EFI_PAGE_BASE_OFFSET_IN_LDR", "_gen_page_8c.html#af4e94afbc9795fbb10edd38be69158a8", null ],
+    [ "EFI_PAGE_NUMBER", "_gen_page_8c.html#a48e6f7c5dfb99f4a21b41af910fcf7b6", null ],
+    [ "EFI_PAGE_SIZE_2M", "_gen_page_8c.html#a8fa1494bb367be3930db0bae0ef0c440", null ],
+    [ "EFI_PDE_ENTRY_NUM", "_gen_page_8c.html#aa8e9eb17b2a50e13a5370c3633ba8a83", null ],
+    [ "EFI_PDE_PAGE_NUM", "_gen_page_8c.html#a02eff87bdaf9fd5474b93e10b4ae5537", null ],
+    [ "EFI_PDPTE_ENTRY_NUM", "_gen_page_8c.html#a5c2134ab5416e15b8f509289d552c2f8", null ],
+    [ "EFI_PDPTE_PAGE_NUM", "_gen_page_8c.html#aa73d41b31ad3d310c7a831213b0c1106", null ],
+    [ "EFI_PML4_ENTRY_NUM", "_gen_page_8c.html#a057f97f3d55df0cd0ca472cc71e2747e", null ],
+    [ "EFI_PML4_PAGE_NUM", "_gen_page_8c.html#ae585f02a6e283a767caaf55eb8a8defd", null ],
+    [ "EFI_SIZE_OF_PAGE", "_gen_page_8c.html#a16c985d0a20aee4d3a183e28b33fa0f8", null ],
+    [ "UTILITY_MAJOR_VERSION", "_gen_page_8c.html#a12464daf57940945870a1eb0db31b0a3", null ],
+    [ "UTILITY_MINOR_VERSION", "_gen_page_8c.html#aed784090e8635e5388129910a6853c29", null ],
+    [ "UTILITY_NAME", "_gen_page_8c.html#a23b1dff10a4629ff956b900e1379851b", null ],
+    [ "CreateIdentityMappingPageTables", "_gen_page_8c.html#a0afbab3eb55c6e4b61923af641c095dd", null ],
+    [ "Error", "_gen_page_8c.html#a638564fc801b5113300b6319e527fe05", null ],
+    [ "GenBinPage", "_gen_page_8c.html#a2f5994c72e7ae70d7f62cac731ed58e0", null ],
+    [ "main", "_gen_page_8c.html#a3c04138a5bfe5d72780bb7e82a18e627", null ],
+    [ "Usage", "_gen_page_8c.html#a40185ea52d16cecaafae70740e90af29", null ],
+    [ "Version", "_gen_page_8c.html#ad9754e57e66e6e00017189ab19dfe142", null ],
+    [ "gPageTableBaseAddress", "_gen_page_8c.html#abb093871e5a2600a8302be359770c875", null ],
+    [ "gPageTableOffsetInFile", "_gen_page_8c.html#a3f536c346b51685210c42e50ede9d649", null ]
+];

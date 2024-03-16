@@ -1,0 +1,28 @@
+var _header_8c =
+[
+    [ "InternalInitialiseSymtabs", "_header_8c.html#a35e8e2eca18d6994388770243fb9ab88", null ],
+    [ "InternalRetrieveSymtabs", "_header_8c.html#aaa8f2c68afce51651980aa70e503eca2", null ],
+    [ "MachoExpandImage", "_header_8c.html#a8bd0a5e5ea053413936c57f4e044fae3", null ],
+    [ "MachoGetExpandedImageSize", "_header_8c.html#aabb165d3d5c62ab249e9a75143af61b5", null ],
+    [ "MachoGetFileData", "_header_8c.html#a718a9d1442190c2e5e76af87f7d6ac71", null ],
+    [ "MachoGetFilePointerByAddress", "_header_8c.html#a7dfad7885962a609cdbd575b56cdad6d", null ],
+    [ "MachoGetFileSize", "_header_8c.html#a3a795c14b7f103a5d3a2122bbf7e63bc", null ],
+    [ "MachoGetIndirectSymbolTable", "_header_8c.html#ab5c46a041f60ee8fa3996b6571d3afd7", null ],
+    [ "MachoGetInnerSize", "_header_8c.html#a2111bbb59da0a1b351d940f1a32a8b7c", null ],
+    [ "MachoGetLastAddress", "_header_8c.html#a703bebafbf0a3e207fe66d0211e4a49b", null ],
+    [ "MachoGetMachHeader", "_header_8c.html#a9f4803c8e2fcf484ac2ae587b72b4e76", null ],
+    [ "MachoGetNextCommand", "_header_8c.html#af2c9b96981200e4c427d58f09a92f2d8", null ],
+    [ "MachoGetNextSection", "_header_8c.html#ab50e4fbe7c631b990f10a618dbf7bc39", null ],
+    [ "MachoGetNextSegment", "_header_8c.html#a8150ec0e064d2c24e392016c96b6ccad", null ],
+    [ "MachoGetSectionByIndex", "_header_8c.html#adee4ec3c35ca05d1461e5c7ecd499421", null ],
+    [ "MachoGetSectionByName", "_header_8c.html#a3f491505cb6cb06005419921d920af64", null ],
+    [ "MachoGetSegmentByName", "_header_8c.html#ad8e80beafb2e3433f2700d99e68f4f22", null ],
+    [ "MachoGetSegmentSectionByName", "_header_8c.html#adfd53161883750f7fc106563b9b5c787", null ],
+    [ "MachoGetSymbolTable", "_header_8c.html#aa4cb88bd7f4f1d5a96d3b296c8fead7d", null ],
+    [ "MachoGetUuid", "_header_8c.html#ae5b55496c2c95903110e6b26b91a0fe0", null ],
+    [ "MachoGetVmSize", "_header_8c.html#aa386c0742a2e43cdf022dcb11cdee5b9", null ],
+    [ "MachoInitialiseSymtabsExternal", "_header_8c.html#a883cc22aaaeb270f714f32c2aedad931", null ],
+    [ "MachoInitializeContext", "_header_8c.html#aa10f8c87a4524058ca5852824d833464", null ],
+    [ "MachoMergeSegments", "_header_8c.html#af61af8d0779698f06e6c3cb4fd072362", null ],
+    [ "MachoRuntimeGetEntryAddress", "_header_8c.html#a08e86a84f43d71b26b5f9ed4de2351d0", null ]
+];

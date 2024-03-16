@@ -1,0 +1,36 @@
+var _framework_mp_service_8h =
+[
+    [ "EFI_MP_HEALTH_FLAGS", "union_e_f_i___m_p___h_e_a_l_t_h___f_l_a_g_s.html", "union_e_f_i___m_p___h_e_a_l_t_h___f_l_a_g_s" ],
+    [ "EFI_MP_HEALTH", "struct_e_f_i___m_p___h_e_a_l_t_h.html", "struct_e_f_i___m_p___h_e_a_l_t_h" ],
+    [ "EFI_MP_PROC_CONTEXT", "struct_e_f_i___m_p___p_r_o_c___c_o_n_t_e_x_t.html", "struct_e_f_i___m_p___p_r_o_c___c_o_n_t_e_x_t" ],
+    [ "_FRAMEWORK_EFI_MP_SERVICES_PROTOCOL", "struct___f_r_a_m_e_w_o_r_k___e_f_i___m_p___s_e_r_v_i_c_e_s___p_r_o_t_o_c_o_l.html", "struct___f_r_a_m_e_w_o_r_k___e_f_i___m_p___s_e_r_v_i_c_e_s___p_r_o_t_o_c_o_l" ],
+    [ "DELIVERY_MODE_FIXED", "_framework_mp_service_8h.html#ad584094691e2576f9c52b72a88ae22aa", null ],
+    [ "DELIVERY_MODE_INIT", "_framework_mp_service_8h.html#a5b1c1c066bc1593cf0cf7f18d099500c", null ],
+    [ "DELIVERY_MODE_LOWEST_PRIORITY", "_framework_mp_service_8h.html#a5833785f14916706352f8e7413c61259", null ],
+    [ "DELIVERY_MODE_MAX", "_framework_mp_service_8h.html#a75d97ad3941b927f74a1cf7a7205cba0", null ],
+    [ "DELIVERY_MODE_NMI", "_framework_mp_service_8h.html#a1c3dcdff887209a61f2b9ea5d278e3a3", null ],
+    [ "DELIVERY_MODE_REMOTE_READ", "_framework_mp_service_8h.html#ac8d61465b8ebf90f8bb6c8f5d9c02f22", null ],
+    [ "DELIVERY_MODE_SIPI", "_framework_mp_service_8h.html#a72d9cadd1ef92a8faab943b3c2598020", null ],
+    [ "DELIVERY_MODE_SMI", "_framework_mp_service_8h.html#a15edaef62992f6a6012a94791f97e952", null ],
+    [ "EFI_MP_HEALTH_FLAGS_STATUS_FUNCTIONALLY_RESTRICTED", "_framework_mp_service_8h.html#aeada7b50a5881739e4ef29a2bb331aec", null ],
+    [ "EFI_MP_HEALTH_FLAGS_STATUS_HEALTHY", "_framework_mp_service_8h.html#a2a0407ca163e91f5ff916ca7a56a8f6c", null ],
+    [ "EFI_MP_HEALTH_FLAGS_STATUS_PERFORMANCE_RESTRICTED", "_framework_mp_service_8h.html#adbe2d405c82340c7a902420d21487203", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_PROTOCOL_GUID", "_framework_mp_service_8h.html#a85112b32da9596aedecfaa0170c5a7bf", null ],
+    [ "EFI_AP_PROCEDURE", "_framework_mp_service_8h.html#a05411c9b170947cbb1c297ac705e183e", null ],
+    [ "FRAMEWORK_EFI_AP_PROCEDURE", "_framework_mp_service_8h.html#ac342cebafe61f30b9927364f1fedf1d0", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_ENABLEDISABLEAP", "_framework_mp_service_8h.html#aedc8d8424c71a9e0bc2426d91c1ca615", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_GET_GENERAL_MP_INFO", "_framework_mp_service_8h.html#a609dd7fb68a33cc1207b61ef6bcb5a41", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_GET_PROCESSOR_CONTEXT", "_framework_mp_service_8h.html#a5aa98d8f9eda0269cff9afa4e78a51a3", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_PROTOCOL", "_framework_mp_service_8h.html#a8c730ee515fea6d2a352a97344efb559", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_SEND_IPI", "_framework_mp_service_8h.html#ab59803b26505897012bef2258b6454b5", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_STARTUP_ALL_APS", "_framework_mp_service_8h.html#a3aaae5fc8592930724ccf0ccf669e997", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_STARTUP_THIS_AP", "_framework_mp_service_8h.html#a3601ac10e8d8abba79bc71587f5e263b", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_SWITCH_BSP", "_framework_mp_service_8h.html#af27d96ffe1079c549f58032a2bcae3d6", null ],
+    [ "FRAMEWORK_EFI_MP_SERVICES_WHOAMI", "_framework_mp_service_8h.html#adc291b2ec8655e509c3c2e2fa8b45dc4", null ],
+    [ "EFI_CPU_DESIGNATION", "_framework_mp_service_8h.html#aee17abff11f9848942e2f2663e567590", [
+      [ "EfiCpuAP", "_framework_mp_service_8h.html#aee17abff11f9848942e2f2663e567590a2a817825b6434ee73a3322a13e01b22f", null ],
+      [ "EfiCpuBSP", "_framework_mp_service_8h.html#aee17abff11f9848942e2f2663e567590a9f28ac4fc0828008754474a5c6809c45", null ],
+      [ "EfiCpuDesignationMaximum", "_framework_mp_service_8h.html#aee17abff11f9848942e2f2663e567590a18cfbf68ac04795f33ba6d9c32d5fd6e", null ]
+    ] ],
+    [ "gFrameworkEfiMpServiceProtocolGuid", "_framework_mp_service_8h.html#a7ec9c865259bf9214cb5f665104873be", null ]
+];

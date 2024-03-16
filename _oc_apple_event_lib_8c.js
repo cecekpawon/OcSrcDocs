@@ -1,0 +1,26 @@
+var _oc_apple_event_lib_8c =
+[
+    [ "APPLE_EVENT_HANDLE_PRIVATE", "struct_a_p_p_l_e___e_v_e_n_t___h_a_n_d_l_e___p_r_i_v_a_t_e.html", "struct_a_p_p_l_e___e_v_e_n_t___h_a_n_d_l_e___p_r_i_v_a_t_e" ],
+    [ "APPLE_EVENT_HANDLE_PRIVATE_FROM_LIST_ENTRY", "_oc_apple_event_lib_8c.html#a3eb86e5b2aaa5598e891cdd5e7a9d536", null ],
+    [ "APPLE_EVENT_HANDLE_PRIVATE_SIGNATURE", "_oc_apple_event_lib_8c.html#a738fd574168963996dbf510607ad362d", null ],
+    [ "AppleEventUnload", "_oc_apple_event_lib_8c.html#a6a28bf9d908f687e6ec9c65c6a49525c", null ],
+    [ "EventIsCapsLockOn", "_oc_apple_event_lib_8c.html#aaa13d5a52eb5dec5096501fe762b1176", null ],
+    [ "EventLibCancelEvent", "_oc_apple_event_lib_8c.html#a7b7bd2e3cdb41ee941827180e3c3d021", null ],
+    [ "EventLibCreateNotifyTimerEvent", "_oc_apple_event_lib_8c.html#a24129a5eefa3eaf10637871de4f910c5", null ],
+    [ "EventLibCreateTimerEvent", "_oc_apple_event_lib_8c.html#a1d7ee0a3be68621f2b0de807a4e80ea1", null ],
+    [ "EventRegisterHandler", "_oc_apple_event_lib_8c.html#a59c2b154f9e15bffdfa6cdaa4f51c1f2", null ],
+    [ "EventSetCursorPosition", "_oc_apple_event_lib_8c.html#aae06023ef37967f462597c69a0bdc4f7", null ],
+    [ "EventSetEventName", "_oc_apple_event_lib_8c.html#ab1508bf3cd8f1e252f111598d634b546", null ],
+    [ "EventSignalEvents", "_oc_apple_event_lib_8c.html#a2150f3caf9204e32f296365fb8a70fd8", null ],
+    [ "EventUnregisterHandler", "_oc_apple_event_lib_8c.html#a919fe6a70b977fa7c309676bf6841e65", null ],
+    [ "InternalCancelPollEvents", "_oc_apple_event_lib_8c.html#ab03f64a82b5ba3550f234778284c0103", null ],
+    [ "InternalCreatePollEvents", "_oc_apple_event_lib_8c.html#aa2e90c42fec421a7818711f0c5c8ac30", null ],
+    [ "InternalFlagAllEventsReady", "_oc_apple_event_lib_8c.html#a6d36bb99ce6f7e0cd4627cdcf47d70a8", null ],
+    [ "InternalRemoveUnregisteredEvents", "_oc_apple_event_lib_8c.html#ad127f7496ec206207aa65f57d8e04518", null ],
+    [ "InternalSignalEvents", "_oc_apple_event_lib_8c.html#a79d369c2aab60ee0c3d1c571bff000d3", null ],
+    [ "InternalUnregisterHandlers", "_oc_apple_event_lib_8c.html#af2b89ca9d48ba549a1de820fe3eae57f", null ],
+    [ "OcAppleEventInstallProtocol", "_oc_apple_event_lib_8c.html#a6676b3bf2225a6c1cc0a636070ce3d07", null ],
+    [ "mAppleEventProtocol", "_oc_apple_event_lib_8c.html#a5e737c9dc251117fada637c2c32005dc", null ],
+    [ "mEventHandles", "_oc_apple_event_lib_8c.html#ab1e197cd72fd69da5ba7266f11d57582", null ],
+    [ "mNumberOfEventHandles", "_oc_apple_event_lib_8c.html#af34004d3aff00e5a6e8c89bbfee561c4", null ]
+];

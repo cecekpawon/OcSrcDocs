@@ -1,0 +1,5 @@
+var struct_e_f_i___m_i_s_c___r_e_m_o_t_e___a_c_c_e_s_s___m_a_n_u_f_a_c_t_u_r_e_r___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a =
+[
+    [ "RemoteAccessConnections", "struct_e_f_i___m_i_s_c___r_e_m_o_t_e___a_c_c_e_s_s___m_a_n_u_f_a_c_t_u_r_e_r___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a57d7d11688f078d98b9603dfb56a3010", null ],
+    [ "RemoteAccessManufacturerNameDescription", "struct_e_f_i___m_i_s_c___r_e_m_o_t_e___a_c_c_e_s_s___m_a_n_u_f_a_c_t_u_r_e_r___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a9d2f47278a7143deea2571df1cb48514", null ]
+];
