@@ -1,0 +1,27 @@
+var _partition_8h =
+[
+    [ "PARTITION_PRIVATE_DATA", "struct_p_a_r_t_i_t_i_o_n___p_r_i_v_a_t_e___d_a_t_a.html", "struct_p_a_r_t_i_t_i_o_n___p_r_i_v_a_t_e___d_a_t_a" ],
+    [ "PARTITION_ACCESS_TASK", "struct_p_a_r_t_i_t_i_o_n___a_c_c_e_s_s___t_a_s_k.html", "struct_p_a_r_t_i_t_i_o_n___a_c_c_e_s_s___t_a_s_k" ],
+    [ "EFI_PARTITION_ENTRY_STATUS", "struct_e_f_i___p_a_r_t_i_t_i_o_n___e_n_t_r_y___s_t_a_t_u_s.html", "struct_e_f_i___p_a_r_t_i_t_i_o_n___e_n_t_r_y___s_t_a_t_u_s" ],
+    [ "PARTITION_DEVICE_FROM_BLOCK_IO2_THIS", "_partition_8h.html#a9a8b4d4640e501afa9441cc18858b8ba", null ],
+    [ "PARTITION_DEVICE_FROM_BLOCK_IO_THIS", "_partition_8h.html#a629701f6a873d004d0579398e839eb2c", null ],
+    [ "PARTITION_PRIVATE_DATA_SIGNATURE", "_partition_8h.html#a0a53b3438b3dc18ddeb6694ccf945f97", null ],
+    [ "UNPACK_INT32", "_partition_8h.html#a7fed9a8fd7eff1cb61d160af02015253", null ],
+    [ "UNPACK_UINT32", "_partition_8h.html#a27253a7228abe2ce445f3da2fcb5974c", null ],
+    [ "PARTITION_DETECT_ROUTINE", "_partition_8h.html#a9cbcc868bf666f784d425f9e36eea924", null ],
+    [ "HasChildren", "_partition_8h.html#a8f15863b6ed7e852771e8a014bcda39a", null ],
+    [ "PartitionComponentNameGetControllerName", "_partition_8h.html#ae6be1d306f04cafc7eb921ab1302d61e", null ],
+    [ "PartitionComponentNameGetDriverName", "_partition_8h.html#a4816125186d3ffc3fb92951339cc8acc", null ],
+    [ "PartitionDriverBindingStart", "_partition_8h.html#a968e599459781faab9c5d55556d26513", null ],
+    [ "PartitionDriverBindingStop", "_partition_8h.html#a3fed2eec8b52cf7addaa0160928ef457", null ],
+    [ "PartitionDriverBindingSupported", "_partition_8h.html#a74bc8d86fa8c87b9d068346499ad4ae0", null ],
+    [ "PartitionInstallAppleChildHandles", "_partition_8h.html#a2186dfa846620814dc59caca4a722bba", null ],
+    [ "PartitionInstallChildHandle", "_partition_8h.html#a9e821dd8b955f1fcc22d631e4912192c", null ],
+    [ "PartitionInstallElToritoChildHandles", "_partition_8h.html#af584395f1f4330eeb1c3a1a00f72f886", null ],
+    [ "PartitionInstallGptChildHandles", "_partition_8h.html#ad175758fb40c2ed921ca1687989de6a9", null ],
+    [ "PartitionInstallMbrChildHandles", "_partition_8h.html#aa205b510f7f3c60a4a39c904ff17458a", null ],
+    [ "PartitionInstallUdfChildHandles", "_partition_8h.html#ac2a9cbe78d1b5020cfcaa4f01f7e7e4f", null ],
+    [ "gPartitionComponentName", "_partition_8h.html#a1fda69f10b3f33f370640c3f0039a702", null ],
+    [ "gPartitionComponentName2", "_partition_8h.html#a529099c337c21e2e85c1cbe4c4025590", null ],
+    [ "gPartitionDriverBinding", "_partition_8h.html#a704fee0411027f60a0f073f650a67d9c", null ]
+];

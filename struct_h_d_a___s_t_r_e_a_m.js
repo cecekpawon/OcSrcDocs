@@ -1,0 +1,28 @@
+var struct_h_d_a___s_t_r_e_a_m =
+[
+    [ "BufferActive", "struct_h_d_a___s_t_r_e_a_m.html#a8ef484bf858570a023edf4a09c2e8b29", null ],
+    [ "BufferData", "struct_h_d_a___s_t_r_e_a_m.html#a292f0064650ca57bc724ad1ad83835b9", null ],
+    [ "BufferDataMapping", "struct_h_d_a___s_t_r_e_a_m.html#ad45640e9bfdf8d45a57016e1f7db136e", null ],
+    [ "BufferDataPhysAddr", "struct_h_d_a___s_t_r_e_a_m.html#ace351e0968e42fae6b1355c4db0b49fa", null ],
+    [ "BufferList", "struct_h_d_a___s_t_r_e_a_m.html#a447bbe38929cc12575806890368acd04", null ],
+    [ "BufferListMapping", "struct_h_d_a___s_t_r_e_a_m.html#a9173b916ccc18626fc16077bf0a6cb93", null ],
+    [ "BufferListPhysAddr", "struct_h_d_a___s_t_r_e_a_m.html#ad8d3e55182762867ad9cbad71e7b6884", null ],
+    [ "BufferSource", "struct_h_d_a___s_t_r_e_a_m.html#a70fc5bdb5105ba3ceadef46f21222ee1", null ],
+    [ "BufferSourceLength", "struct_h_d_a___s_t_r_e_a_m.html#a36da83c81cfdcbdd6ac270af7c58730a", null ],
+    [ "BufferSourcePosition", "struct_h_d_a___s_t_r_e_a_m.html#a24a7e481a15d1e167461d6a469cbb0a7", null ],
+    [ "Callback", "struct_h_d_a___s_t_r_e_a_m.html#a0f480cfbb2dac30066a1ea3e175e881f", null ],
+    [ "CallbackContext1", "struct_h_d_a___s_t_r_e_a_m.html#a28fb603e1f8348090478f696a48038ca", null ],
+    [ "CallbackContext2", "struct_h_d_a___s_t_r_e_a_m.html#a34e4e532bb933701708c1d83d676c29e", null ],
+    [ "CallbackContext3", "struct_h_d_a___s_t_r_e_a_m.html#a8576933f7c990fa8b77a74b27824b1b3", null ],
+    [ "DmaCheckComplete", "struct_h_d_a___s_t_r_e_a_m.html#a0d32f306a3de753d0805f815f21c3a46", null ],
+    [ "DmaCheckCount", "struct_h_d_a___s_t_r_e_a_m.html#ac9ef6c9f7c5354ae1d520be3287f45db", null ],
+    [ "DmaPositionChangedMax", "struct_h_d_a___s_t_r_e_a_m.html#ac731c02748e24a196aff1e1e2747d7b1", null ],
+    [ "DmaPositionLast", "struct_h_d_a___s_t_r_e_a_m.html#a4d0dbaa67c8abb6a375b5b92a91a6974", null ],
+    [ "DmaPositionTotal", "struct_h_d_a___s_t_r_e_a_m.html#a1ea6469e892c69583f6761e571555286", null ],
+    [ "HasIndex", "struct_h_d_a___s_t_r_e_a_m.html#a6f40ba32f8e1ac2578a897d12e7a1495", null ],
+    [ "HdaDev", "struct_h_d_a___s_t_r_e_a_m.html#ad17c0a49679664b6c79d33eb789426b2", null ],
+    [ "Index", "struct_h_d_a___s_t_r_e_a_m.html#a90c114c79f21ab9eea40cb4ab5848625", null ],
+    [ "IsBidirectional", "struct_h_d_a___s_t_r_e_a_m.html#af608d027044f19d301e65a2e0a536fbc", null ],
+    [ "PollTimer", "struct_h_d_a___s_t_r_e_a_m.html#a0ebeae0d80267642c951daaab434e4d6", null ],
+    [ "UseLpib", "struct_h_d_a___s_t_r_e_a_m.html#a583fb3ba32aa04fc2102c3693bcd9ebf", null ]
+];

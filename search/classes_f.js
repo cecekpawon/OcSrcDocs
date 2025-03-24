@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['page_5fmap_5fand_5fdirectory_5fpointer_0',['PAGE_MAP_AND_DIRECTORY_POINTER',['../union_p_a_g_e___m_a_p___a_n_d___d_i_r_e_c_t_o_r_y___p_o_i_n_t_e_r.html',1,'']]],
+  ['page_5ftable_5f1g_5fentry_1',['PAGE_TABLE_1G_ENTRY',['../union_p_a_g_e___t_a_b_l_e__1_g___e_n_t_r_y.html',1,'']]],
+  ['page_5ftable_5f2m_5fentry_2',['PAGE_TABLE_2M_ENTRY',['../union_p_a_g_e___t_a_b_l_e__2_m___e_n_t_r_y.html',1,'']]],
+  ['page_5ftable_5f4k_5fentry_3',['PAGE_TABLE_4K_ENTRY',['../union_p_a_g_e___t_a_b_l_e__4_k___e_n_t_r_y.html',1,'']]],
+  ['partition_5faccess_5ftask_4',['PARTITION_ACCESS_TASK',['../struct_p_a_r_t_i_t_i_o_n___a_c_c_e_s_s___t_a_s_k.html',1,'']]],
+  ['partition_5fprivate_5fdata_5',['PARTITION_PRIVATE_DATA',['../struct_p_a_r_t_i_t_i_o_n___p_r_i_v_a_t_e___d_a_t_a.html',1,'']]],
+  ['pat_5findex_6',['PAT_INDEX',['../union_p_a_t___i_n_d_e_x.html',1,'']]],
+  ['patched_5fkext_7',['PATCHED_KEXT',['../struct_p_a_t_c_h_e_d___k_e_x_t.html',1,'']]],
+  ['patcher_5fcontext_8',['PATCHER_CONTEXT',['../struct_p_a_t_c_h_e_r___c_o_n_t_e_x_t.html',1,'']]],
+  ['patcher_5fgeneric_5fpatch_9',['PATCHER_GENERIC_PATCH',['../struct_p_a_t_c_h_e_r___g_e_n_e_r_i_c___p_a_t_c_h.html',1,'']]],
+  ['pci_5fclass_5fentry_5ftag_10',['PCI_CLASS_ENTRY_TAG',['../struct_p_c_i___c_l_a_s_s___e_n_t_r_y___t_a_g.html',1,'']]],
+  ['pci_5fclasscode_11',['PCI_CLASSCODE',['../struct_p_c_i___c_l_a_s_s_c_o_d_e.html',1,'']]],
+  ['physicalrange_5f_12',['PhysicalRange_',['../struct_physical_range__.html',1,'']]],
+  ['platform_5fdummy_5fisa_5fkeyboard_5fdevice_5fpath_13',['PLATFORM_DUMMY_ISA_KEYBOARD_DEVICE_PATH',['../struct_p_l_a_t_f_o_r_m___d_u_m_m_y___i_s_a___k_e_y_b_o_a_r_d___d_e_v_i_c_e___p_a_t_h.html',1,'']]],
+  ['platform_5froot_5fbridge_5fdevice_5fpath_14',['PLATFORM_ROOT_BRIDGE_DEVICE_PATH',['../struct_p_l_a_t_f_o_r_m___r_o_o_t___b_r_i_d_g_e___d_e_v_i_c_e___p_a_t_h.html',1,'']]],
+  ['platformdata_15',['PLATFORMDATA',['../struct_p_l_a_t_f_o_r_m_d_a_t_a.html',1,'']]],
+  ['pointer_5fbutton_5finformation_16',['POINTER_BUTTON_INFORMATION',['../struct_p_o_i_n_t_e_r___b_u_t_t_o_n___i_n_f_o_r_m_a_t_i_o_n.html',1,'']]],
+  ['prelinked_5fcontext_17',['PRELINKED_CONTEXT',['../struct_p_r_e_l_i_n_k_e_d___c_o_n_t_e_x_t.html',1,'']]],
+  ['prelinked_5fkext_5f_18',['PRELINKED_KEXT_',['../struct_p_r_e_l_i_n_k_e_d___k_e_x_t__.html',1,'']]],
+  ['prelinked_5fkext_5fsymbol_19',['PRELINKED_KEXT_SYMBOL',['../struct_p_r_e_l_i_n_k_e_d___k_e_x_t___s_y_m_b_o_l.html',1,'']]],
+  ['prelinked_5fvtable_20',['PRELINKED_VTABLE',['../struct_p_r_e_l_i_n_k_e_d___v_t_a_b_l_e.html',1,'']]],
+  ['prelinked_5fvtable_5fentry_21',['PRELINKED_VTABLE_ENTRY',['../struct_p_r_e_l_i_n_k_e_d___v_t_a_b_l_e___e_n_t_r_y.html',1,'']]],
+  ['priv_5foc_5flist_5f_22',['PRIV_OC_LIST_',['../union_p_r_i_v___o_c___l_i_s_t__.html',1,'']]]
+];

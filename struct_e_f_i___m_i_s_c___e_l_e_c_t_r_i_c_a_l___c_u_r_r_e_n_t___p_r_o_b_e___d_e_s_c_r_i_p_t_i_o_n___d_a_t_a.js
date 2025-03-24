@@ -1,0 +1,18 @@
+var struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a =
+[
+    [ "ElectricalCurrentProbeAccuracy", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a66a29efe6eaf2d7486e70bdae685c54c", null ],
+    [ "ElectricalCurrentProbeDescription", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a55c9ae402d0ece61cc623aec0cc411d3", null ],
+    [ "ElectricalCurrentProbeLocation", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a60fc99f3b7cd92be02e2aaecaf193140", null ],
+    [ "ElectricalCurrentProbeMaximumValue", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a8e17c653a55780aa4893b222ff99c43f", null ],
+    [ "ElectricalCurrentProbeMinimumValue", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a2eaf8a59c357b837f3899b1ecf429e36", null ],
+    [ "ElectricalCurrentProbeNominalValue", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#af77dac6425adb3f5f86c5998091f0b36", null ],
+    [ "ElectricalCurrentProbeOemDefined", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a8185f286c8f37600c4a0e7f9fa1df3fc", null ],
+    [ "ElectricalCurrentProbeResolution", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a14669380f5b71b39b658f08e0bf26a72", null ],
+    [ "ElectricalCurrentProbeTolerance", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a9e2d9d3886aa0f174e64d09b101bc333", null ],
+    [ "MDLowerCriticalThreshold", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#ab6f7e1e56d60e9d075e422ad76b0b97f", null ],
+    [ "MDLowerNoncriticalThreshold", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a83e3387f866d73e7e22f9a858f3324b2", null ],
+    [ "MDLowerNonrecoverableThreshold", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#ae1cf6ae3625350d2edeeb8f0d070cb22", null ],
+    [ "MDUpperCriticalThreshold", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#adac032fb76c938478e30850534f94f79", null ],
+    [ "MDUpperNoncriticalThreshold", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a9b88fb29facefbad7b32acb445b593ec", null ],
+    [ "MDUpperNonrecoverableThreshold", "struct_e_f_i___m_i_s_c___e_l_e_c_t_r_i_c_a_l___c_u_r_r_e_n_t___p_r_o_b_e___d_e_s_c_r_i_p_t_i_o_n___d_a_t_a.html#a4e86e90cd51bf7aee5daaf5de0f79cc6", null ]
+];

@@ -1,0 +1,19 @@
+var searchData=
+[
+  ['k_5fcmp_5ft_0',['k_cmp_t',['../fsw__hfsplus_8h.html#a260b9c408062d02b85452a28fe8b4017',1,'fsw_hfsplus.h']]],
+  ['kernel_5fcache_5ftype_1',['KERNEL_CACHE_TYPE',['../_oc_apple_kernel_lib_8h.html#a1b4a98f9097fab70fc4d20a2f7ae9e39',1,'OcAppleKernelLib.h']]],
+  ['kernel_5fcall_5fgate_2',['KERNEL_CALL_GATE',['../_boot_compat_internal_8h.html#a26883b296406410243c4c2392b49679c',1,'BootCompatInternal.h']]],
+  ['kernel_5fquirk_5fpatch_5ffunction_3',['KERNEL_QUIRK_PATCH_FUNCTION',['../_oc_apple_kernel_lib_8h.html#a3844c1195e98e96b3d39cd26d98c832b',1,'OcAppleKernelLib.h']]],
+  ['kernel_5fsupport_5fstate_4',['KERNEL_SUPPORT_STATE',['../_boot_compat_internal_8h.html#a51eaba771635f28e102a14d05351c5ee',1,'BootCompatInternal.h']]],
+  ['kext_5finfo_5',['KEXT_INFO',['../_kext_info_8h.html#a7944693cbfc4241efe47a181de42cc9c',1,'KextInfo.h']]],
+  ['kext_5fprecedence_6',['KEXT_PRECEDENCE',['../_kext_info_8h.html#a51d605c10cbf033b697e449b0984e09e',1,'KextInfo.h']]],
+  ['key_5fmap_5fcontains_5fkey_5fstrokes_7',['KEY_MAP_CONTAINS_KEY_STROKES',['../_apple_key_map_aggregator_8h.html#ab5fb2e1a9cb5795cef87c0e78da47ef9',1,'AppleKeyMapAggregator.h']]],
+  ['key_5fmap_5fcreate_5fkey_5fstrokes_5fbuffer_8',['KEY_MAP_CREATE_KEY_STROKES_BUFFER',['../_apple_key_map_database_8h.html#a278c6410c674f7556dbc5197f76e4da4',1,'AppleKeyMapDatabase.h']]],
+  ['key_5fmap_5fget_5fkey_5fstrokes_9',['KEY_MAP_GET_KEY_STROKES',['../_apple_key_map_aggregator_8h.html#a8db1f9c4a1fa5291fb4e430011d2713c',1,'AppleKeyMapAggregator.h']]],
+  ['key_5fmap_5fremove_5fkey_5fstrokes_5fbuffer_10',['KEY_MAP_REMOVE_KEY_STROKES_BUFFER',['../_apple_key_map_database_8h.html#a78ff08f5d57e01290474effa2f35a9dc',1,'AppleKeyMapDatabase.h']]],
+  ['key_5fmap_5fset_5fkey_5fstrokes_5fkeys_11',['KEY_MAP_SET_KEY_STROKES_KEYS',['../_apple_key_map_database_8h.html#a36d3ff6b543f171683d37787182f9d1e',1,'AppleKeyMapDatabase.h']]],
+  ['keyboard_5fconsole_5fin_5fex_5fnotify_12',['KEYBOARD_CONSOLE_IN_EX_NOTIFY',['../_efi_key_8h.html#a22d4a20419af74f83ee13b35482db2b5',1,'EfiKey.h']]],
+  ['keyboard_5finfo_5fget_5finfo_13',['KEYBOARD_INFO_GET_INFO',['../_keyboard_info_8h.html#aad95eddc466b7969d5abd8a19c648d1a',1,'KeyboardInfo.h']]],
+  ['kmod_5finfo_5f32_5fv1_14',['KMOD_INFO_32_V1',['../_apple_kmod_info_8h.html#a3729acc09c6a272f73e55633e451d895',1,'AppleKmodInfo.h']]],
+  ['kmod_5finfo_5f64_5fv1_15',['KMOD_INFO_64_V1',['../_apple_kmod_info_8h.html#a039ade457a3e77933143f8f501251392',1,'AppleKmodInfo.h']]]
+];

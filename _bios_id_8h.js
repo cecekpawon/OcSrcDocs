@@ -1,0 +1,28 @@
+var _bios_id_8h =
+[
+    [ "_MANIFEST_OEM_DATA", "struct___m_a_n_i_f_e_s_t___o_e_m___d_a_t_a.html", "struct___m_a_n_i_f_e_s_t___o_e_m___d_a_t_a" ],
+    [ "APPLE_ROM_INFO_GUID", "_bios_id_8h.html#a4100bb58b4a22c53e532a1d3cb7568ec", null ],
+    [ "EFI_BIOS_ID_GUID", "_bios_id_8h.html#a029a44df6a0746095966c4ea28e22c05", null ],
+    [ "MEM_IFWIVER_LENGTH", "_bios_id_8h.html#adf1c13f46711b282c5d7281ed6c9c1f2", null ],
+    [ "MEM_IFWIVER_START", "_bios_id_8h.html#abd6161a6cb4e29fcf44fb6616bd39df4", null ],
+    [ "APPLE_ROM_INFO_STRING", "_bios_id_8h.html#a03313d9d635caa48a1983fd9040a2be1", null ],
+    [ "BIOS_ID_IMAGE", "_bios_id_8h.html#afdbc251e3771b8b50a4adda3fc980e03", null ],
+    [ "BIOS_ID_STRING", "_bios_id_8h.html#a10f1356aaf12375a98e70a4937e3f5be", null ],
+    [ "MANIFEST_OEM_DATA", "_bios_id_8h.html#a06cbd44b1ac4a5443ca89e23970e228e", null ],
+    [ "BiosIdString", "_bios_id_8h.html#a0ae9838441842ba6a3006c62b5bf16d1", null ],
+    [ "BoardId", "_bios_id_8h.html#a3127c42edf0478aaf4e9d8b1c85f9429", null ],
+    [ "BoardRev", "_bios_id_8h.html#a9d1183efbf3c34bc892bf552bbe1578d", null ],
+    [ "BuildType", "_bios_id_8h.html#a1195126c2e82ad070b8bb3ecf338e328", null ],
+    [ "Dot1", "_bios_id_8h.html#ae3a9ffcc29c6e747060dc0b5e849edf8", null ],
+    [ "Dot2", "_bios_id_8h.html#a19577e1cc42a2bb4673ee44d8ec29924", null ],
+    [ "Dot3", "_bios_id_8h.html#a061d41b53ee8fd9e4c9b9c60edfc1492", null ],
+    [ "Dot4", "_bios_id_8h.html#aa36e2647e5f9cd627ca35de29d4d949a", null ],
+    [ "gAppleRomInfoGuid", "_bios_id_8h.html#aebbe112b2a8a4a15c34170d09742deeb", null ],
+    [ "gEfiBiosIdGuid", "_bios_id_8h.html#a290be9a7ff94868850f63dbc22c062cb", null ],
+    [ "NullTerminator", "_bios_id_8h.html#a495730c8c7796314f0619a8309f63854", null ],
+    [ "OemId", "_bios_id_8h.html#aa81fd5b0bdd0c6ff373bb4a7988b8774", null ],
+    [ "Signature", "_bios_id_8h.html#ab67f81f361986158cc87d01f3af417ac", null ],
+    [ "TimeStamp", "_bios_id_8h.html#ad98265f36c1981194bb945c2a61df8e5", null ],
+    [ "VersionMajor", "_bios_id_8h.html#ad09c3aed11dff514f3306fa615f31049", null ],
+    [ "VersionMinor", "_bios_id_8h.html#afc1f824d99664828a07f35f00f3f9fb3", null ]
+];

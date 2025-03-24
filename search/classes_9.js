@@ -1,0 +1,26 @@
+var searchData=
+[
+  ['i386_5fcpu_5finfo_5ft_0',['i386_cpu_info_t',['../structi386__cpu__info__t.html',1,'']]],
+  ['ifr_5fblock_5fdata_1',['IFR_BLOCK_DATA',['../struct_i_f_r___b_l_o_c_k___d_a_t_a.html',1,'']]],
+  ['ifr_5fdefault_5fdata_2',['IFR_DEFAULT_DATA',['../struct_i_f_r___d_e_f_a_u_l_t___d_a_t_a.html',1,'']]],
+  ['ifr_5fvarstorage_5fdata_3',['IFR_VARSTORAGE_DATA',['../struct_i_f_r___v_a_r_s_t_o_r_a_g_e___d_a_t_a.html',1,'']]],
+  ['image4certificateinfo_4',['Image4CertificateInfo',['../struct_image4_certificate_info.html',1,'']]],
+  ['image_5fentry_5',['IMAGE_ENTRY',['../struct_i_m_a_g_e___e_n_t_r_y.html',1,'']]],
+  ['index_5fentry_6',['INDEX_ENTRY',['../struct_i_n_d_e_x___e_n_t_r_y.html',1,'']]],
+  ['index_5fheader_7',['INDEX_HEADER',['../struct_i_n_d_e_x___h_e_a_d_e_r.html',1,'']]],
+  ['index_5frecord_5fheader_8',['INDEX_RECORD_HEADER',['../struct_i_n_d_e_x___r_e_c_o_r_d___h_e_a_d_e_r.html',1,'']]],
+  ['index_5froot_9',['INDEX_ROOT',['../struct_i_n_d_e_x___r_o_o_t.html',1,'']]],
+  ['inflate_5fstate_10',['inflate_state',['../structinflate__state.html',1,'']]],
+  ['internal_5fcpuid_5ffn_5fpatch_11',['INTERNAL_CPUID_FN_PATCH',['../struct_i_n_t_e_r_n_a_l___c_p_u_i_d___f_n___p_a_t_c_h.html',1,'']]],
+  ['internal_5fcpuid_5fpatch_12',['INTERNAL_CPUID_PATCH',['../struct_i_n_t_e_r_n_a_l___c_p_u_i_d___p_a_t_c_h.html',1,'']]],
+  ['internal_5fdev_5fpath_5fscan_5finfo_13',['INTERNAL_DEV_PATH_SCAN_INFO',['../struct_i_n_t_e_r_n_a_l___d_e_v___p_a_t_h___s_c_a_n___i_n_f_o.html',1,'']]],
+  ['internal_5fdmg_5fload_5fcontext_14',['INTERNAL_DMG_LOAD_CONTEXT',['../struct_i_n_t_e_r_n_a_l___d_m_g___l_o_a_d___c_o_n_t_e_x_t.html',1,'']]],
+  ['internal_5fmicrocode_5fpatch_15',['INTERNAL_MICROCODE_PATCH',['../struct_i_n_t_e_r_n_a_l___m_i_c_r_o_c_o_d_e___p_a_t_c_h.html',1,'']]],
+  ['internal_5fstate_16',['internal_state',['../structinternal__state.html',1,'']]],
+  ['iohibernatehandoff_17',['IOHibernateHandoff',['../struct_i_o_hibernate_handoff.html',1,'']]],
+  ['iohibernateimageheader_18',['IOHibernateImageHeader',['../struct_i_o_hibernate_image_header.html',1,'']]],
+  ['iopolledfileextent_19',['IOPolledFileExtent',['../struct_i_o_polled_file_extent.html',1,'']]],
+  ['ip4_5fconfig2_5fdata_5frecord_20',['IP4_CONFIG2_DATA_RECORD',['../struct_i_p4___c_o_n_f_i_g2___d_a_t_a___r_e_c_o_r_d.html',1,'']]],
+  ['ip4_5fconfig2_5foc_5fconfig_5fdata_21',['IP4_CONFIG2_OC_CONFIG_DATA',['../struct_i_p4___c_o_n_f_i_g2___o_c___c_o_n_f_i_g___d_a_t_a.html',1,'']]],
+  ['ip4_5fconfig2_5fvariable_22',['IP4_CONFIG2_VARIABLE',['../struct_i_p4___c_o_n_f_i_g2___v_a_r_i_a_b_l_e.html',1,'']]]
+];

@@ -1,0 +1,27 @@
+var _oc_device_path_lib_8h =
+[
+    [ "APPLE_BOOT_DP_PATCH_CONTEXT", "struct_a_p_p_l_e___b_o_o_t___d_p___p_a_t_c_h___c_o_n_t_e_x_t.html", "struct_a_p_p_l_e___b_o_o_t___d_p___p_a_t_c_h___c_o_n_t_e_x_t" ],
+    [ "MSG_APPLE_NVME_NAMESPACE_DP", "_oc_device_path_lib_8h.html#a32df7d4602d4c71c8d9a3294248800bf", null ],
+    [ "AbsoluteDevicePath", "_oc_device_path_lib_8h.html#aa3f51f8a6c67762fb7268aa1cbb8035f", null ],
+    [ "AppendFileNameDevicePath", "_oc_device_path_lib_8h.html#ae9b6ae4ecff2052e26c802ace925ca8d", null ],
+    [ "FileDevicePathsEqual", "_oc_device_path_lib_8h.html#ae96e0b87e650c7db3b6a12a39f4c7bba", null ],
+    [ "FindDevicePathEndNode", "_oc_device_path_lib_8h.html#a3684bc0c104799bb3a53e3030d27e94a", null ],
+    [ "FindDevicePathNodeWithType", "_oc_device_path_lib_8h.html#ad4dc855189717ff5456aebb6e7453e48", null ],
+    [ "IsDevicePathChild", "_oc_device_path_lib_8h.html#a45ffd2e5941ed2b9cc082f584ea5ea4f", null ],
+    [ "IsDevicePathEqual", "_oc_device_path_lib_8h.html#afbcda3ed9c088dcd10a1eb239f918068", null ],
+    [ "OcAppendDevicePathInstanceDedupe", "_oc_device_path_lib_8h.html#abc26c17744943b86f60d0e870c0cca63", null ],
+    [ "OcCopyDevicePathFullName", "_oc_device_path_lib_8h.html#a5b8b096bafe8e918b0029dded784c753", null ],
+    [ "OcDevicePathHasFilePathSuffix", "_oc_device_path_lib_8h.html#a98e1b7c5c2fbfb992ac814c8f53df61f", null ],
+    [ "OcFileDevicePathFullName", "_oc_device_path_lib_8h.html#abddcf808880f97618ba5c7c0d60f5ec6", null ],
+    [ "OcFileDevicePathFullNameLen", "_oc_device_path_lib_8h.html#a1ace1051ca5dbe86c6621861e75e803b", null ],
+    [ "OcFileDevicePathFullNameSize", "_oc_device_path_lib_8h.html#af7cb42557fe394c445fec86f500c52a1", null ],
+    [ "OcFileDevicePathNameLen", "_oc_device_path_lib_8h.html#a31e575eafd59a86a33f3d9c8e4359546", null ],
+    [ "OcFileDevicePathNameSize", "_oc_device_path_lib_8h.html#a44e6e9ffc1d4a2407acecb11fa19a344", null ],
+    [ "OcFixAppleBootDevicePath", "_oc_device_path_lib_8h.html#a34813a343d8c6a0b28a602bc9c45a472", null ],
+    [ "OcFixAppleBootDevicePathNode", "_oc_device_path_lib_8h.html#ac731f505d66d3f357bf15331358ffb40", null ],
+    [ "OcFixAppleBootDevicePathNodeRestore", "_oc_device_path_lib_8h.html#a891304732bca7d9d6a3f6d63a1fa22b1", null ],
+    [ "OcFixAppleBootDevicePathNodeRestoreFree", "_oc_device_path_lib_8h.html#a403d5b93c29221e9eb3b64ae144fb5f7", null ],
+    [ "OcGetNextLoadOptionDevicePath", "_oc_device_path_lib_8h.html#a1155eea7cb13aa4e5ac009e81bbd5016", null ],
+    [ "OcGetNumDevicePathInstances", "_oc_device_path_lib_8h.html#ad002dc7f22b76aeba1f8bda9d0759371", null ],
+    [ "TrailedBooterDevicePath", "_oc_device_path_lib_8h.html#acb1f67911ebae48f9625c0361d372bcc", null ]
+];

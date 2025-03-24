@@ -1,0 +1,25 @@
+var searchData=
+[
+  ['cacheless_5fcontext_0',['CACHELESS_CONTEXT',['../struct_c_a_c_h_e_l_e_s_s___c_o_n_t_e_x_t.html',1,'']]],
+  ['cacheless_5fkext_1',['CACHELESS_KEXT',['../struct_c_a_c_h_e_l_e_s_s___k_e_x_t.html',1,'']]],
+  ['call_5fgate_5fjump_5f_2',['CALL_GATE_JUMP_',['../struct_c_a_l_l___g_a_t_e___j_u_m_p__.html',1,'']]],
+  ['cert_5fis_5fpresent_5fcontext_3',['CERT_IS_PRESENT_CONTEXT',['../struct_c_e_r_t___i_s___p_r_e_s_e_n_t___c_o_n_t_e_x_t.html',1,'']]],
+  ['chacha_5fcontext_5f_4',['CHACHA_CONTEXT_',['../struct_c_h_a_c_h_a___c_o_n_t_e_x_t__.html',1,'']]],
+  ['code_5',['code',['../structcode.html',1,'']]],
+  ['colortree_6',['ColorTree',['../struct_color_tree.html',1,'']]],
+  ['commpage_5fdescriptor_7',['COMMPAGE_DESCRIPTOR',['../struct_c_o_m_m_p_a_g_e___d_e_s_c_r_i_p_t_o_r.html',1,'']]],
+  ['commpage_5fdescriptor_5f64_8',['COMMPAGE_DESCRIPTOR_64',['../struct_c_o_m_m_p_a_g_e___d_e_s_c_r_i_p_t_o_r__64.html',1,'']]],
+  ['commpage_5fdescriptor_5fany_9',['COMMPAGE_DESCRIPTOR_ANY',['../union_c_o_m_m_p_a_g_e___d_e_s_c_r_i_p_t_o_r___a_n_y.html',1,'']]],
+  ['compressed_10',['COMPRESSED',['../struct_c_o_m_p_r_e_s_s_e_d.html',1,'']]],
+  ['config_5fs_11',['config_s',['../structconfig__s.html',1,'']]],
+  ['console_5fgop_5fcontext_12',['CONSOLE_GOP_CONTEXT',['../struct_c_o_n_s_o_l_e___g_o_p___c_o_n_t_e_x_t.html',1,'']]],
+  ['cpuid_5farch_5fperf_5fleaf_5ft_13',['cpuid_arch_perf_leaf_t',['../structcpuid__arch__perf__leaf__t.html',1,'']]],
+  ['cpuid_5fcache_5fdesc_5ft_14',['cpuid_cache_desc_t',['../structcpuid__cache__desc__t.html',1,'']]],
+  ['cpuid_5fmwait_5fleaf_5ft_15',['cpuid_mwait_leaf_t',['../structcpuid__mwait__leaf__t.html',1,'']]],
+  ['cpuid_5fthermal_5fleaf_5ft_16',['cpuid_thermal_leaf_t',['../structcpuid__thermal__leaf__t.html',1,'']]],
+  ['cpuid_5ftsc_5fleaf_5ft_17',['cpuid_tsc_leaf_t',['../structcpuid__tsc__leaf__t.html',1,'']]],
+  ['cpuid_5fxsave_5fleaf_5ft_18',['cpuid_xsave_leaf_t',['../structcpuid__xsave__leaf__t.html',1,'']]],
+  ['criticalbandinfo_19',['CriticalBandInfo',['../struct_critical_band_info.html',1,'']]],
+  ['ct_5fdata_5fs_20',['ct_data_s',['../structct__data__s.html',1,'']]],
+  ['custom_5ffree_5fcontext_21',['CUSTOM_FREE_CONTEXT',['../struct_c_u_s_t_o_m___f_r_e_e___c_o_n_t_e_x_t.html',1,'']]]
+];

@@ -1,0 +1,36 @@
+var _oc_device_misc_lib_8h =
+[
+    [ "PCI_CLASSCODE", "struct_p_c_i___c_l_a_s_s_c_o_d_e.html", "struct_p_c_i___c_l_a_s_s_c_o_d_e" ],
+    [ "PCI_BAR_SIZE", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2f", [
+      [ "PciBar1MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa9c30a041067a9ab43f2d5a54f6f52945", null ],
+      [ "PciBar2MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fae2937e2d389c97c4e466d4574ce338f6", null ],
+      [ "PciBar4MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa4b0c2c54556fd4e0cde4e8825246c4c1", null ],
+      [ "PciBar8MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa40d9d53afb9f3f31ba010015a6459a7d", null ],
+      [ "PciBar16MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa6a545be5b89ef9d3ee0a3308117a9686", null ],
+      [ "PciBar32MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa76f2ac8d836bbec3096eb13080926a22", null ],
+      [ "PciBar64MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2faf2601849c616b1cd252ad07160f992d1", null ],
+      [ "PciBar128MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa05f70ed44347dbf65c0b6e1befe65489", null ],
+      [ "PciBar256MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa7aeb372dde18e3a2a8a845638cd7554d", null ],
+      [ "PciBar512MB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa26286ac5821995931e205f431ba460c1", null ],
+      [ "PciBar1GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fad6dddc7519c4f7b2e73f96a7149b29b7", null ],
+      [ "PciBar2GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa6593f2f4e96aa0461309a77dbb65fb6b", null ],
+      [ "PciBar4GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2faa49b6f4aa0b041d74566a4294947cc94", null ],
+      [ "PciBar8GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa23f79f50dffe4b8e745fa6b5f9f1468f", null ],
+      [ "PciBar16GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa5be48001297c1c42872ec8d6cc36384f", null ],
+      [ "PciBar32GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa2bca276e4ea697c62dbde0116671924d", null ],
+      [ "PciBar64GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa8840590a9967ceadd13350b44396f4ee", null ],
+      [ "PciBar128GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa63b8ccb44b37f4df1ed126544e0c771d", null ],
+      [ "PciBar256GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2facf3a97e7c050881f95ca5242ca23ed28", null ],
+      [ "PciBar512GB", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa92f244e4627fef80aa312a7516220cb9", null ],
+      [ "PciBarMacMax", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa1f5c9977ddbf790a83ea25da65f22992", null ],
+      [ "PciBarTotal", "_oc_device_misc_lib_8h.html#a827d6de9c5f3372bb7cdc4b574435e2fa0589bc8f09094f18472204c2ac6982d1", null ]
+    ] ],
+    [ "ActivateHpetSupport", "_oc_device_misc_lib_8h.html#a7385bee24b85fb1ddcdeab26105390f3", null ],
+    [ "OcCpuInfoDump", "_oc_device_misc_lib_8h.html#af7b0b94c378bb252dd9bf58ecf16f5db", null ],
+    [ "OcForgeUefiSupport", "_oc_device_misc_lib_8h.html#a07a297584ff41a31fdfcaeaddea6bc77", null ],
+    [ "OcPciInfoDump", "_oc_device_misc_lib_8h.html#a5c89b4241b452371a3ae2454921f19c2", null ],
+    [ "OcReloadOptionRoms", "_oc_device_misc_lib_8h.html#ae18abae4c3e7c5b5593b7a4653bb5cc7", null ],
+    [ "ReleaseUsbOwnership", "_oc_device_misc_lib_8h.html#a948b7357fea0f2e7c708f7606326ffe9", null ],
+    [ "ResetAudioTrafficClass", "_oc_device_misc_lib_8h.html#a30eb224a1dfaa1b165fd63f4127ea197", null ],
+    [ "ResizeGpuBars", "_oc_device_misc_lib_8h.html#ad0479ece3c3a5ce575d81f309bd22830", null ]
+];
